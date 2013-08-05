@@ -1,6 +1,6 @@
 # Brewery
 
-TODO: Write a gem description
+For now, some formulas and tools for Homebrewing.
 
 ## Installation
 
@@ -18,7 +18,7 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+Comming soon.
 
 ## Contributing
 
