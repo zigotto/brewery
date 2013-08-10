@@ -29,4 +29,17 @@ module Brewery
       alcohol_by_weight*(final_gravity/0.794)
     end
   end
+
+  class Priming
+    attr_accessor :radius, :height
+
+    def initialize(args)
+      @radius = args[:radius]
+      @height = args[:height]
+    end
+
+    def total_liquid
+      ((3.14 * @radius * @radius * @height) / 1000).round(3)
+    end
+  end
 end
