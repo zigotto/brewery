@@ -11,9 +11,13 @@ module Brewery
       ((3.14 * @radius * @radius * @height) / 1000).round(3)
     end
 
-    def total_of_sugar(args)
-      gr = args[:gr]
-      (volume_of_cylinder * gr).round(3)
+    # TODO Config initializer to set the units
+    #
+    def total(args)
+      gr = args[:sugar]
+      sugar = (volume_of_cylinder * gr).round(3)
+      water = sugar * 3
+      return sugar, water
     end
   end
 end

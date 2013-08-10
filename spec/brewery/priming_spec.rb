@@ -7,7 +7,12 @@ describe Brewery::Priming do
     it { priming.volume_of_cylinder.should eql(2.609) }
   end
 
-  describe "#total_of_sugar" do
-    it { priming.total_of_sugar(gr: 6).should eql(15.654) }
+  describe "#total" do
+    it "should return total of sugar and water" do
+      sugar, water = priming.total(sugar: 6)
+
+      sugar.should eql(15.654)
+      water.should eql(46.962)
+    end
   end
 end
