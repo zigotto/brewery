@@ -23,10 +23,11 @@ module Brewery
     class Style
       STATS_VARS = %w(og_low og_high fg_low fg_high ibu_low ibu_high srm_low srm_high abv_low abv_high)
 
-      attr_accessor :name
+      attr_accessor :id, :name
       attr_accessor *STATS_VARS
 
       def initialize(xml)
+        @id   = xml.attr('id')
         @name = xml.css('name').text
 
         %w(og fg ibu srm abv).each do |var|
