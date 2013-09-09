@@ -18,6 +18,24 @@ Or install it yourself as:
 
 ## Usage
 
+### Tools
+
+Comming soon.
+
+### Beer Style Guidelines
+
+#### BJCP
+
+```ruby
+guide = Brewery.guides :bjcp
+guide.styles
+
+search = guide.find(id: '14B')
+search.name
+```
+
+#### Brewers Association (BA)
+
 Comming soon.
 
 ## Contributing
