@@ -21,18 +21,18 @@ module Brewery
     end
 
     class Style
-      STATS_VARS = %w(og_low og_high fg_low fg_high ibu_low ibu_high srm_low srm_high abv_low abv_high)
+      STATS_METHODS = %w[og_low og_high fg_low fg_high ibu_low ibu_high srm_low srm_high abv_low abv_high]
 
       attr_accessor :id, :name
-      attr_accessor *STATS_VARS
 
       def initialize(xml)
         @id   = xml.attr('id')
         @name = xml.css('name').text
 
-        %w(og fg ibu srm abv).each do |var|
-          self.instance_variable_set("@#{var}_low", xml.css("#{var} low").text.to_f)
-          self.instance_variable_set("@#{var}_high", xml.css("#{var} high").text.to_f)
+        STATS_METHODS.each do |var|
+          define_singleton_method var.to_sym do
+            xml.css(var.gsub('_', ' ')).text.to_f
+          end
         end
       end
     end
