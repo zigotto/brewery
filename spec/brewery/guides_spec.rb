@@ -9,10 +9,22 @@ describe Brewery::Guides do
     end
 
     it { guide.styles.first.name.should == "Lite American Lager" }
-    it { guide.styles.first.og.should == (1.028..1.040) }
-    it { guide.styles.first.fg.should == (0.998..1.008) }
-    it { guide.styles.first.ibu.should == (8..12) }
-    it { guide.styles.first.srm.should == (2.0..3.0) }
-    it { guide.styles.first.abv.should == (2.8..4.2) }
+
+    context "Vital Statistics" do
+      it { guide.styles.first.og_low.should eql(1.028) }
+      it { guide.styles.first.og_high.should eql(1.040) }
+
+      it { guide.styles.first.fg_low.should eql(0.998) }
+      it { guide.styles.first.fg_high.should eql(1.008) }
+
+      it { guide.styles.first.ibu_low.should eql(8.0) }
+      it { guide.styles.first.ibu_high.should eql(12.0) }
+
+      it { guide.styles.first.srm_low.should eql(2.0) }
+      it { guide.styles.first.srm_high.should eql(3.0) }
+
+      it { guide.styles.first.abv_low.should eql(2.8) }
+      it { guide.styles.first.abv_high.should eql(4.2) }
+    end
   end
 end

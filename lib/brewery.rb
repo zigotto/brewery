@@ -21,16 +21,18 @@ module Brewery
     end
 
     class Style
-      attr_accessor :name, :og, :fg, :ibu, :srm, :abv
+      STATS_VARS = %w(og_low og_high fg_low fg_high ibu_low ibu_high srm_low srm_high abv_low abv_high)
+
+      attr_accessor :name
+      attr_accessor *STATS_VARS
 
       def initialize(xml)
         @name = xml.css('name').text
 
-        @og = (xml.css('og low').text.to_f..xml.css('og high').text.to_f)
-        @fg = (xml.css('fg low').text.to_f..xml.css('fg high').text.to_f)
-        @ibu = (xml.css('ibu low').text.to_f..xml.css('ibu high').text.to_f)
-        @srm = (xml.css('srm low').text.to_f..xml.css('srm high').text.to_f)
-        @abv = (xml.css('abv low').text.to_f..xml.css('abv high').text.to_f)
+        %w(og fg ibu srm abv).each do |var|
+          self.instance_variable_set("@#{var}_low", xml.css("#{var} low").text.to_f)
+          self.instance_variable_set("@#{var}_high", xml.css("#{var} high").text.to_f)
+        end
       end
     end
   end
