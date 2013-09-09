@@ -33,8 +33,20 @@ describe Brewery::Guides do
     end
 
     describe ".find" do
-      let(:result) do
-        guide.find(id: '14B')
+      context "when the style is found" do
+        let(:result) { guide.find(id: '14B') }
+
+        it "returns the style" do
+          expect(result.name).to eq('American IPA')
+        end
+      end
+
+      context "when the style is not found" do
+        let(:result) { guide.find(id: 'xxx') }
+
+        it "returns nil" do
+          expect(result).to be_nil
+        end
       end
     end
   end

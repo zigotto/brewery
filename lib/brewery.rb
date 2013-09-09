@@ -14,10 +14,18 @@ module Brewery
       attr_accessor :styles
 
       def initialize
-        file = File.open(File.join(File.expand_path(File.dirname(__FILE__)), 'data', 'bjcp2008.xml'))
-        xml = Nokogiri::XML(file)
-        @styles = xml.css("[type='beer']").css('subcategory').map {|xml| Style.new(xml)}
+        @styles = load_xml
       end
+
+      def find(args={})
+        styles.find {|v| v.id == args[:id]}
+      end
+
+      def load_xml
+        file = File.open(File.join(File.expand_path(File.dirname(__FILE__)), 'data', 'bjcp2008.xml'))
+        Nokogiri::XML(file).css("[type='beer']").css('subcategory').map {|xml| Style.new(xml)}
+      end
+      private :load_xml
     end
 
     class Style
