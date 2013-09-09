@@ -2,7 +2,7 @@ require 'spec_helper'
 
 describe Brewery::Guides do
   context "BJCP Beer Style Guidelines" do
-    let(:guide) { Brewery.guides :bjpc }
+    let(:guide) { Brewery.guides :bjcp }
 
     it "returns all styles" do
       expect(guide.styles.count).to eql(80)

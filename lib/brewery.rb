@@ -10,7 +10,7 @@ module Brewery
   end
 
   class Guides
-    class Bjpc
+    class Bjcp
       attr_accessor :styles
 
       def initialize
