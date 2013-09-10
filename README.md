@@ -34,6 +34,8 @@ search = guide.find(id: '14B')
 search.name
 ```
 
+You can see the categories [here](bjcp-categories.md)
+
 #### Brewers Association (BA)
 
 Comming soon.
