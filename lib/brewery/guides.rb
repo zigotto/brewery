@@ -1,8 +1,4 @@
 module Brewery
-  def self.guides(name)
-    Brewery::Guides.const_get(name.capitalize).new
-  end
-
   class Guides
     class Bjcp
       attr_accessor :styles
