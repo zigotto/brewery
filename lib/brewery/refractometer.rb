@@ -1,38 +1,34 @@
 module Brewery
   class Refractometer
-    def style(name = nil)
-      if name
-        @style = Brewery.guides(:bjcp).find(id: name)
-      else
-        g(:style)
-      end
+    def style(data = nil)
+      @style ||= data.is_a?(String) ? Brewery.guides(:bjcp).find(id: data) : data
     end
 
-    def original_brix(brix)
-      @original_brix = brix
+    def original_brix(brix = 0.0)
+      @original_brix ||= brix
     end
 
-    def final_brix(brix)
-      @final_brix = brix
+    def final_brix(brix = 0.0)
+      @final_brix ||= brix
     end
 
     def original_gravity
-      1.000898 + (0.003859118 * g(:original_brix)) +
-        (0.00001370735 * g(:original_brix) * g(:original_brix)) +
-        (0.00000003742517 * g(:original_brix) * g(:original_brix) * g(:original_brix))
+      1.000898 + (0.003859118 * @original_brix) +
+        (0.00001370735 * @original_brix * @original_brix) +
+        (0.00000003742517 * @original_brix * @original_brix * @original_brix)
     end
 
     def final_gravity
-      1.001843 - (0.002318474 * g(:original_brix)) -
-        (0.000007775 * g(:original_brix) * g(:original_brix)) -
-        (0.000000034 * g(:original_brix) * g(:original_brix) * g(:original_brix)) +
-        (0.00574 * g(:final_brix)) +
-        (0.00003344 * g(:final_brix) * g(:final_brix)) +
-        (0.000000086 * g(:final_brix) * g(:final_brix) * g(:final_brix))
+      1.001843 - (0.002318474 * @original_brix) -
+        (0.000007775 * @original_brix * @original_brix) -
+        (0.000000034 * @original_brix * @original_brix * @original_brix) +
+        (0.00574 * @final_brix) +
+        (0.00003344 * @final_brix * @final_brix) +
+        (0.000000086 * @final_brix * @final_brix * @final_brix)
     end
 
     def index_of_refraction
-      1.33302 + (0.001427193 * g(:final_brix)) + (0.000005791157 * g(:final_brix) * g(:final_brix))
+      1.33302 + (0.001427193 * @final_brix) + (0.000005791157 * @final_brix * @final_brix)
     end
 
     def alcohol_by_weight
@@ -41,12 +37,6 @@ module Brewery
 
     def alcohol_by_volume
       alcohol_by_weight * (final_gravity/0.794)
-    end
-
-    private
-
-    def g(name)
-      instance_variable_get("@#{name}")
     end
   end
 end

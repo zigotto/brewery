@@ -2,13 +2,43 @@ require 'spec_helper'
 
 describe Brewery::Refractometer do
   describe ".style" do
+    context "search style by id" do
+      let(:tool) {
+        Brewery.tools :refractometer do
+          style '14B'
+        end
+      }
+
+      it { expect(tool.style.name).to eq('American IPA') }
+    end
+
+    context "search style by guide instance" do
+      let(:tool) {
+        american_ipa = Brewery.guides(:bjcp).find(id: '14B')
+
+        Brewery.tools :refractometer do
+          style american_ipa
+        end
+      }
+
+      it { expect(tool.style.name).to eq('American IPA') }
+    end
+  end
+
+  describe ".original_brix" do
     let(:tool) {
-      Brewery.tools :refractometer do
-        style '14B'
-      end
+      Brewery.tools(:refractometer) { original_brix 17 }
     }
 
-    it { expect(tool.style.name).to eq('American IPA') }
+    it { expect(tool.original_brix).to eql(17) }
+  end
+
+  describe ".final_brix" do
+    let(:tool) {
+      Brewery.tools(:refractometer) { final_brix 7.5 }
+    }
+
+    it { expect(tool.final_brix).to eql(7.5) }
   end
 
   context "Corrected Final Gravity and ABV by Brix" do
