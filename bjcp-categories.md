@@ -39,7 +39,7 @@
 * 8 ENGLISH PALE ALE
   * 8A Standard/Ordinary Bitter
   * 8B Special/Best/Premium Bitter
-  * 8c Extra Special/Strong Bitter (English Pale Ale)
+  * 8C Extra Special/Strong Bitter (English Pale Ale)
 
 * 9 SCOTTISH AND IRISH ALE
   * 9A Scottish Light 60/-
