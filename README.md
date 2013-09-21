@@ -20,7 +20,45 @@ Or install it yourself as:
 
 ### Tools
 
-Comming soon.
+#### Refractometer
+
+```ruby
+american_ipa = Brewery.guides(:bjcp).find(id: '14B')
+
+tool = Brewery.tools :refractometer do
+  style american_ipa
+
+  original_brix 17
+  final_brix 7.5
+end
+```
+
+You can search style by [ID](bjcp-categories.md)
+
+```ruby
+tool = Brewery.tools :refractometer do
+  style '14B'
+
+  original_brix 17
+  final_brix 7.5
+end
+```
+
+That's it!
+
+```ruby
+tool.original_gravity
+# => 1.0706483000102098
+
+tool.final_gravity
+# => 1.0049822062500002
+
+tool.alcohol_by_weight
+# => 6.734352775327011
+
+tool.alcohol_by_volume
+# => 8.523809458203969
+```
 
 ### Beer Style Guidelines
 
