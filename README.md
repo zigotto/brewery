@@ -67,12 +67,20 @@ tool.alcohol_by_volume
 ```ruby
 guide = Brewery.guides :bjcp
 guide.styles
+guide.categories
 
-search = guide.find(id: '14B')
-search.name
+style = guide.find_style(id: '14B')
+style.name
+# => American IPA
+
+category = guide.find_category(id: '14')
+category.name
+# => India Pale Ale(IPA)
+
+category.styles
 ```
 
-You can see the categories [here](bjcp-categories.md)
+You can see the categories and styles [here](bjcp-categories.md)
 
 #### Brewers Association (BA)
 
