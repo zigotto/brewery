@@ -1,21 +1,31 @@
 module Brewery
   class Guides
     class Bjcp
-      attr_accessor :styles
+      attr_accessor :styles, :categories
 
       def initialize
-        @styles = load_xml
+        @styles     = load_styles
+        @categories = load_categories
       end
 
       def find(args={})
         styles.find {|v| v.id == args[:id]}
       end
 
-      def load_xml
-        file = File.open(File.join(File.expand_path(File.dirname(__FILE__)), 'data', 'styleguide2008.xml'))
-        Nokogiri::XML(file).css("[type='beer']").css('subcategory').map {|xml| Style.new(xml)}
+      private
+
+      def load_categories
+        file.css('category').map {|xml| Category.new(xml) }
       end
-      private :load_xml
+
+      def load_styles
+        file.css('subcategory').map {|xml| Style.new(xml) }
+      end
+
+      def file
+        file = File.open(File.join(File.expand_path(File.dirname(__FILE__)), 'data', 'styleguide2008.xml'))
+        Nokogiri::XML(file).css("[type='beer']")
+      end
     end
 
     class Style
@@ -32,6 +42,15 @@ module Brewery
             xml.css(var.gsub('_', ' ')).text.to_f
           end
         end
+      end
+    end
+
+    class Category
+      attr_accessor :id, :name
+
+      def initialize(xml)
+        @id   = xml.attr('id')
+        @name = xml.css('name').first.text
       end
     end
   end

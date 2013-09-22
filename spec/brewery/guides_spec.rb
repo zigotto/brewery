@@ -32,6 +32,19 @@ describe Brewery::Guides do
       end
     end
 
+    describe ".categories" do
+      it "returns all categories" do
+        expect(guide.categories.count).to eql(23)
+      end
+
+      context "category data" do
+        let(:category) { guide.categories.first }
+
+        it { expect(category.name).to eq('Light Lager') }
+        it { expect(category.id).to eq('1') }
+      end
+    end
+
     describe ".find" do
       context "when the style is found" do
         let(:result) { guide.find(id: '14B') }
