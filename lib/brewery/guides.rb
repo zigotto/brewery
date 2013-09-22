@@ -8,8 +8,12 @@ module Brewery
         @categories = load_categories
       end
 
-      def find(args={})
-        styles.find {|v| v.id == args[:id]}
+      def find_style(id: nil)
+        styles.find {|v| v.id == id}
+      end
+
+      def find_category(id: nil)
+        categories.find {|v| v.id == id}
       end
 
       private
@@ -46,7 +50,7 @@ module Brewery
     end
 
     class Category
-      attr_accessor :id, :name
+      attr_accessor :id, :name, :styles
 
       def initialize(xml)
         @id   = xml.attr('id')
