@@ -4,13 +4,14 @@ module Brewery
       attr_accessor :styles, :categories
 
       def initialize
-        @styles     = load_styles
         @categories = load_categories
+        @styles     = load_styles
       end
 
       def find_style(id: nil)
         styles.find {|v| v.id == id}
       end
+      alias :find :find_style
 
       def find_category(id: nil)
         categories.find {|v| v.id == id}
@@ -55,6 +56,11 @@ module Brewery
       def initialize(xml)
         @id   = xml.attr('id')
         @name = xml.css('name').first.text
+        @styles = []
+
+        xml.css('subcategory').each do |style|
+          @styles << Style.new(style)
+        end
       end
     end
   end
