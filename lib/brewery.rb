@@ -4,6 +4,7 @@ require 'json'
 require 'hashie'
 
 module Brewery
+  autoload :Utils,          'brewery/utils'
   autoload :Refractometer,  'brewery/refractometer'
   autoload :Priming,        'brewery/priming'
   autoload :Guides,         'brewery/guides'
@@ -21,7 +22,7 @@ module Brewery
     end
 
     def ingredients(name)
-      Brewery::Ingredient.const_get(name.capitalize).new
+      Brewery::Ingredient.const_get(name.capitalize).new(name)
     end
   end
 end

@@ -1,10 +1,10 @@
 module Brewery
   class Ingredient
-    class Fermentables
+    module InstanceMethods
       include Enumerable
 
-      def initialize
-        self.file = File.open(File.join(File.expand_path(File.dirname(__FILE__)), 'data', 'fermentables.json')).read
+      def initialize(name)
+        self.file = Utils.open_file("#{name}.json").read
       end
 
       def each
@@ -16,51 +16,20 @@ module Brewery
       private
 
       def file=(file)
-        @file = file
         @collection = JSON.parse(file)["Ingredients"]
       end
+    end
+
+    class Fermentables
+      include InstanceMethods
     end
 
     class Hops
-      include Enumerable
-
-      def initialize
-        self.file = File.open(File.join(File.expand_path(File.dirname(__FILE__)), 'data', 'hops.json')).read
-      end
-
-      def each
-        return to_enum unless block_given?
-
-        @collection.each {|element| yield(Hashie::Mash.new(element)) }
-      end
-
-      private
-
-      def file=(file)
-        @file = file
-        @collection = JSON.parse(file)["Ingredients"]
-      end
+      include InstanceMethods
     end
 
     class Yeasts
-      include Enumerable
-
-      def initialize
-        self.file = File.open(File.join(File.expand_path(File.dirname(__FILE__)), 'data', 'yeast.json')).read
-      end
-
-      def each
-        return to_enum unless block_given?
-
-        @collection.each {|element| yield(Hashie::Mash.new(element)) }
-      end
-
-      private
-
-      def file=(file)
-        @file = file
-        @collection = JSON.parse(file)["Ingredients"]
-      end
+      include InstanceMethods
     end
   end
 end

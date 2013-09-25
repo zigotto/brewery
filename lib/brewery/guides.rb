@@ -28,7 +28,7 @@ module Brewery
       end
 
       def file
-        file = File.open(File.join(File.expand_path(File.dirname(__FILE__)), 'data', 'styleguide2008.xml'))
+        file = Utils.open_file('styleguide2008.xml')
         Nokogiri::XML(file).css("[type='beer']")
       end
     end
