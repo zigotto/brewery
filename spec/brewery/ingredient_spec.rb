@@ -17,7 +17,7 @@ describe Brewery::Ingredient do
     end
   end
 
-  context "hops" do
+  context "Hops" do
     let(:hops) { Brewery.ingredients :hops }
 
     it { expect(hops.count).to eql(85) }
@@ -28,6 +28,22 @@ describe Brewery::Ingredient do
       it { expect(hop.description).to include('Exciting hop variety that was new in 2010 from Australia.') }
       it { expect(hop.alpha).to eq('15.000000') }
       it { expect(hop.variety).to eq('Australian Galaxy') }
+    end
+  end
+
+  context "Yeast" do
+    let(:yeasts) { Brewery.ingredients :yeasts }
+
+    it { expect(yeasts.count).to eql(208) }
+
+    context "yeast data" do
+      let(:yeast) { yeasts.first }
+
+      it { expect(yeast.description).to include('General purpose top fermenting strain.') }
+      it { expect(yeast.yeast_type).to eq('Liquid') }
+      it { expect(yeast.beer_type).to eq('Ale') }
+      it { expect(yeast.attenuation).to eq('75.000000') }
+      it { expect(yeast.name).to eq('Brewferm Ale Yeast') }
     end
   end
 end

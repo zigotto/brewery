@@ -1,0 +1,1877 @@
+{
+  "IngredientType" : "Yeast",
+  "Ingredients" : [
+    {
+      "yeast_type" : "Liquid",
+      "DateLastModified" : "\/\/Date:1372128898.269765",
+      "beer_type" : "Ale",
+      "attenuation" : "75.000000",
+      "UUID" : "4D3F26FE-C219-477A-86B0-A0E26314E49E",
+      "name" : "Brewferm Ale Yeast",
+      "description" : "General purpose top fermenting strain. Ideal for the fermentation of amber and dark beers. Produces fruity esters. Consistent and rapid fermentation.\n\nattenuation: High\nFlocculation: Medium-High\nTemperature range: 64-72F(18-22C)"
+    },
+    {
+      "yeast_type" : "Dry",
+      "DateLastModified" : "\/\/Date:1372128898.249728",
+      "beer_type" : "Ale",
+      "attenuation" : "75.000000",
+      "UUID" : "66FFA19C-1A69-4AF2-90AF-2DE54926CB2C",
+      "name" : "Brewferm Blanche\/Wit Yeast",
+      "description" : "Top fermenting brewers yeast, giving clove and banana aromas. Suitable for production of witbeers, wheatbeers etc.\n\nattenuation: High\nFlocculation: Low\nTemperature range: 64-75F(18-24C)"
+    },
+    {
+      "yeast_type" : "Dry",
+      "DateLastModified" : "\/\/Date:1372128898.123536",
+      "beer_type" : "Lager",
+      "attenuation" : "75.000000",
+      "UUID" : "5D464143-5A32-415E-B93E-64B281736506",
+      "name" : "Brewferm Lager Yeast",
+      "description" : "A Belgian bottom fermenting strain delivering a consistent neutral fermentation with little or no sulfur components and other undesirable by-products.\n\nattenuation: High\nFlocculation: High\nTemperature range: 50-59F(10-15C)"
+    },
+    {
+      "yeast_type" : "Liquid",
+      "DateLastModified" : "\/\/Date:1372128898.330408",
+      "beer_type" : "Ale",
+      "attenuation" : "75.000000",
+      "UUID" : "7E502150-AE95-40FB-A3B5-8A14574EC7B0",
+      "name" : "Brewlab 1000-Thames Valley 3",
+      "description" : "Single strain yeast for ordinary and best bitter. Prefers moderate mineral worts. Moderate to high esters. Good flocculation."
+    },
+    {
+      "yeast_type" : "Liquid",
+      "DateLastModified" : "\/\/Date:1372128898.345807",
+      "beer_type" : "Ale",
+      "attenuation" : "75.000000",
+      "UUID" : "D4D02595-E671-480F-93CB-18F50E1A7755",
+      "name" : "Brewlab 1004-Sussex 1",
+      "description" : "Dual strain yeast for ordinary and best bitter. Prefers moderate mineral worts. Low esters. Variable flocculation."
+    },
+    {
+      "yeast_type" : "Liquid",
+      "DateLastModified" : "\/\/Date:1372128898.301854",
+      "beer_type" : "Ale",
+      "attenuation" : "75.000000",
+      "UUID" : "C841480F-343D-47C5-B553-4661FA47B20F",
+      "name" : "Brewlab 1500-Thames Valley 1",
+      "description" : "Dual strain yeast for ordinary bitter. Prefers light mineral worts. Moderate esters. Moderate flocculation."
+    },
+    {
+      "yeast_type" : "Liquid",
+      "DateLastModified" : "\/\/Date:1372128898.300252",
+      "beer_type" : "Ale",
+      "attenuation" : "75.000000",
+      "UUID" : "0088D842-343E-4360-9304-9A8CF4391D9E",
+      "name" : "Brewlab 1508-Thames Valley 2",
+      "description" : "Single strain yeast for ordinary and best bitter (and strong bitters if roused). Prefers moderate mineral worts. Moderate to high esters. Moderate flocculation."
+    },
+    {
+      "yeast_type" : "Liquid",
+      "DateLastModified" : "\/\/Date:1372128898.108729",
+      "beer_type" : "Ale",
+      "attenuation" : "78.000000",
+      "UUID" : "F469E663-0F8F-48E4-B55E-C5962A0345F5",
+      "name" : "Brewlab 1578-Number 9",
+      "description" : ""
+    },
+    {
+      "yeast_type" : "Liquid",
+      "DateLastModified" : "\/\/Date:1372128898.219806",
+      "beer_type" : "Ale",
+      "attenuation" : "75.000000",
+      "UUID" : "B1E516B5-CD95-47B8-81D4-08C5B3B2CB76",
+      "name" : "Brewlab 2000-Somerset 1",
+      "description" : "Single strain yeast for ordinary bitter. Prefers moderate mineral worts and requires high oxygen levels. Moderate esters. Good flocculation."
+    },
+    {
+      "yeast_type" : "Liquid",
+      "DateLastModified" : "\/\/Date:1372128898.254156",
+      "beer_type" : "Ale",
+      "attenuation" : "75.000000",
+      "UUID" : "1374F53E-115E-4D26-BED6-81B2772D9D0B",
+      "name" : "Brewlab 2100-Devon 1",
+      "description" : "Dual strain yeast for ordinary and best bitter. Prefers moderate mineral worts. Low esters. Variable flocculation."
+    },
+    {
+      "yeast_type" : "Liquid",
+      "DateLastModified" : "\/\/Date:1372128898.216977",
+      "beer_type" : "Ale",
+      "attenuation" : "75.000000",
+      "UUID" : "311DE81A-D54D-4874-B5D0-61935C53C47F",
+      "name" : "Brewlab 2540-East Midlands 1",
+      "description" : "Single strain yeast for mild and dark bitters of low to medium gravity. Prefers medium to high mineral worts. Good flocculation."
+    },
+    {
+      "yeast_type" : "Liquid",
+      "DateLastModified" : "\/\/Date:1372128898.359884",
+      "beer_type" : "Ale",
+      "attenuation" : "75.000000",
+      "UUID" : "9DDFAB5A-5F50-4C23-9A7A-E2A461406B6D",
+      "name" : "Brewlab 2556-Burton 1",
+      "description" : "Single strain yeast for ordinary and best bitter. Prefers high mineral worts. Moderate to high esters. Moderate sulfur."
+    },
+    {
+      "yeast_type" : "Liquid",
+      "DateLastModified" : "\/\/Date:1372128898.078298",
+      "beer_type" : "Ale",
+      "attenuation" : "75.000000",
+      "UUID" : "43D350C0-9F17-472E-B01D-FFC45B500725",
+      "name" : "Brewlab 3504-Yorkshire 2",
+      "description" : "Single strain yeast for ordinary bitter. Prefers moderate mineral worts. Low esters. Good flocculation."
+    },
+    {
+      "yeast_type" : "Liquid",
+      "DateLastModified" : "\/\/Date:1372128898.271377",
+      "beer_type" : "Ale",
+      "attenuation" : "75.000000",
+      "UUID" : "A8E0577F-0931-4B41-9853-D88CA3C3B39D",
+      "name" : "Brewlab 3524-Yorkshire 1",
+      "description" : "Single strain yeast for ordinary and best bitter. Prefers moderate mineral worts. Low esters. Medium flocculation."
+    },
+    {
+      "yeast_type" : "Liquid",
+      "DateLastModified" : "\/\/Date:1372128898.111800",
+      "beer_type" : "Ale",
+      "attenuation" : "75.000000",
+      "UUID" : "823CAED6-5C38-405B-8204-817AB16C117E",
+      "name" : "Brewlab 4008-Tyneside 1",
+      "description" : "Single strain yeast for ordinary bitter. Prefers moderate mineral worts. Low esters. Good flocculation.\t"
+    },
+    {
+      "yeast_type" : "Liquid",
+      "DateLastModified" : "\/\/Date:1372128898.073748",
+      "beer_type" : "Ale",
+      "attenuation" : "75.000000",
+      "UUID" : "D812F91E-6D40-4417-A77A-EC2BE86FA90E",
+      "name" : "Brewlab 4500-Borders 1",
+      "description" : "Single strain yeast for ordinary and dark bitter. Prefers low to moderate mineral worts. Low esters. Good flocculation."
+    },
+    {
+      "yeast_type" : "Liquid",
+      "DateLastModified" : "\/\/Date:1372128898.103815",
+      "beer_type" : "Lager",
+      "attenuation" : "75.000000",
+      "UUID" : "0DF7643C-3C74-44CA-9645-B60DB98974EB",
+      "name" : "Brewlab 5700-Belgium Lager",
+      "description" : "Single strain yeast with clean lager flavor.  Prefers moderate mineral worts. Moderate esters. Good flocculation."
+    },
+    {
+      "yeast_type" : "Liquid",
+      "DateLastModified" : "\/\/Date:1372128898.146295",
+      "beer_type" : "Lager",
+      "attenuation" : "75.000000",
+      "UUID" : "26E3805E-90FC-42B1-A6A5-2CF7C95C2A97",
+      "name" : "Brewlab 5705-Bavarian Pils",
+      "description" : "Single strain yeast with clean lager flavor.  Prefers light mineral worts. Low esters."
+    },
+    {
+      "yeast_type" : "Liquid",
+      "DateLastModified" : "\/\/Date:1372128898.236618",
+      "beer_type" : "Ale",
+      "attenuation" : "75.000000",
+      "UUID" : "4522EACF-22D6-11DA-91CE-001124CAE2A6",
+      "name" : "Brewtek CL-0010-American Microbrewery Ale #1",
+      "description" : "Smooth, clean and a strong fermenter. Neutral. The Brewtek yeasts seem to available from specialist sources only.\n\nattenuation 73-76% \nFlocculation: medium\nTemperature range: 62-72F(17-22C)"
+    },
+    {
+      "yeast_type" : "Liquid",
+      "DateLastModified" : "\/\/Date:1372128898.288861",
+      "beer_type" : "Ale",
+      "attenuation" : "75.000000",
+      "UUID" : "7A65DFE7-22D6-11DA-91CE-001124CAE2A6",
+      "name" : "Brewtek CL-0020-American Microbrewery Ale #2",
+      "description" : "Gives an accentuated, rich malt profile with detectable amounts of diacetyl. The Brewtek yeasts seem to available from specialist sources only.\n\nattenuation 73-75% \nFlocculation: medium\nTemperature range: 62-70F(17-21C)"
+    },
+    {
+      "yeast_type" : "Liquid",
+      "DateLastModified" : "\/\/Date:1372128898.246801",
+      "beer_type" : "Ale",
+      "attenuation" : "75.000000",
+      "UUID" : "81BCD8DE-22D6-11DA-91CE-001124CAE2A6",
+      "name" : "Brewtek CL-0060-North-Eastern Micro Ale",
+      "description" : ""
+    },
+    {
+      "yeast_type" : "Liquid",
+      "DateLastModified" : "\/\/Date:1372128898.187577",
+      "beer_type" : "Ale",
+      "attenuation" : "75.000000",
+      "UUID" : "88E40BE5-22D6-11DA-91CE-001124CAE2A6",
+      "name" : "Brewtek CL-0110-British Microbrewery Ale",
+      "description" : "A distinctive yeast with a complex, oaky, fruity profile giving a somewhat full-flavored finish. The Brewtek yeasts seem to available from specialist sources only.\n\nattenuation 73-75% \nFlocculation: medium\nTemperature range: 64-69F(18-21C)"
+    },
+    {
+      "yeast_type" : "Liquid",
+      "DateLastModified" : "\/\/Date:1372128898.128792",
+      "beer_type" : "Ale",
+      "attenuation" : "75.000000",
+      "UUID" : "90C46156-22D6-11DA-91CE-001124CAE2A6",
+      "name" : "Brewtek CL-0120-British Pale Ale #1",
+      "description" : "A bold yeast that accentuates mineral and hop flavors. The Brewtek yeasts seem to available from specialist sources only.\n\nattenuation 75-77% \nFlocculation: medium\nTemperature range: 63-68F(18-21C)"
+    },
+    {
+      "yeast_type" : "Liquid",
+      "DateLastModified" : "\/\/Date:1372128898.196712",
+      "beer_type" : "Ale",
+      "attenuation" : "75.000000",
+      "UUID" : "9B464482-22D6-11DA-91CE-001124CAE2A6",
+      "name" : "Brewtek CL-0130-British Pale Ale #2",
+      "description" : "A smooth, full-flavored, slightly estery yeast. The Brewtek yeasts seem to available from specialist sources only.\n\nattenuation 74-76% \nFlocculation: medium\nTemperature range: 64-69F(18-21C)"
+    },
+    {
+      "yeast_type" : "Liquid",
+      "DateLastModified" : "\/\/Date:1372128898.095438",
+      "beer_type" : "Ale",
+      "attenuation" : "68.000000",
+      "UUID" : "A49B9C94-22D6-11DA-91CE-001124CAE2A6",
+      "name" : "Brewtek CL-0150-British Real Ale",
+      "description" : "A complex yeast with low attenuation that gives a sweetish beer. The Brewtek yeasts seem to available from specialist sources only.\n\nattenuation 66-70% \nFlocculation: medium-low\nTemperature range: 64-69F(18-21C)"
+    },
+    {
+      "yeast_type" : "Liquid",
+      "DateLastModified" : "\/\/Date:1372128898.235202",
+      "beer_type" : "Ale",
+      "attenuation" : "75.000000",
+      "UUID" : "B4E7A4A7-22D6-11DA-91CE-001124CAE2A6",
+      "name" : "Brewtek CL-0160-British Draft Ale",
+      "description" : "A full-bodied yeast with a hint of diacetyl. The Brewtek yeasts seem to available from specialist sources only.\n\nattenuation 72-78% \nFlocculation: medium-low\nTemperature range: 64-69F(18-21C)"
+    },
+    {
+      "yeast_type" : "Liquid",
+      "DateLastModified" : "\/\/Date:1372128898.136681",
+      "beer_type" : "Ale",
+      "attenuation" : "75.000000",
+      "UUID" : "CB30D63A-22D6-11DA-91CE-001124CAE2A6",
+      "name" : "Brewtek CL-0170-Classic British Ale",
+      "description" : "A complex, estery yeast that makes a nice British style ale. The Brewtek yeasts seem to available from specialist sources only.\n\nattenuation 75-77% \nFloculation: medium-high\nTemperature range: 64-69F(18-21C)"
+    },
+    {
+      "yeast_type" : "Liquid",
+      "DateLastModified" : "\/\/Date:1372128898.260297",
+      "beer_type" : "Ale",
+      "attenuation" : "78.000000",
+      "UUID" : "144737EB-CDAA-4AE5-AB2E-6B01B2A74886",
+      "name" : "Brewtek CL-0200-Scottish Ale",
+      "description" : "A woody, oaky yeast with a mild finish. The Brewtek yeasts seem to available from specialist sources only.\n\nattenuation 77-80% \nFloculation: medium-high\nTemperature range: 60-68F(16-20C)"
+    },
+    {
+      "yeast_type" : "Liquid",
+      "DateLastModified" : "\/\/Date:1372128898.305059",
+      "beer_type" : "Ale",
+      "attenuation" : "74.000000",
+      "UUID" : "A8FF733A-3B96-4B18-B35A-142F92D01427",
+      "name" : "Brewtek CL-0210-Scottish Bitter Ale",
+      "description" : "Well-attenuated with fruity esters. The Brewtek yeasts seem to available from specialist sources only.\n\nattenuation 73-75% \nFloculation: medium-high\nTemperature range: 62-68F(17-20C)"
+    },
+    {
+      "yeast_type" : "Liquid",
+      "DateLastModified" : "\/\/Date:1372128898.087191",
+      "beer_type" : "Ale",
+      "attenuation" : "77.000000",
+      "UUID" : "BC091D53-22D6-11DA-91CE-001124CAE2A6",
+      "name" : "Brewtek CL-0240-Irish Dry Stout",
+      "description" : "A great strain for dry stouts with a vinous, almost lactic finish. The Brewtek yeasts seem to available from specialist sources only.\n\nattenuation 76-78% \nFloculation: medium\nTemperature range: 60-68F(16-20C)"
+    },
+    {
+      "yeast_type" : "Liquid",
+      "DateLastModified" : "\/\/Date:1372128898.091764",
+      "beer_type" : "Ale",
+      "attenuation" : "75.000000",
+      "UUID" : "D3FF09C5-22D6-11DA-91CE-001124CAE2A6",
+      "name" : "Brewtek CL-0260-Canadian Ale",
+      "description" : "A clean, well attenuated yeast. The Brewtek yeasts seem to available from specialist sources only.\n\nattenuation 75% \nFloculation: medium\nTemperature range: 60-68F(16-20C)"
+    },
+    {
+      "yeast_type" : "Liquid",
+      "DateLastModified" : "\/\/Date:1372128898.356307",
+      "beer_type" : "Ale",
+      "attenuation" : "76.000000",
+      "UUID" : "DA75F1AD-22D6-11DA-91CE-001124CAE2A6",
+      "name" : "Brewtek CL-0300-Belgian Ale #1",
+      "description" : "A robust, estery, fruity yeast. The Brewtek yeasts seem to available from specialist sources only.\n\nattenuation 75-77% \nFloculation: medium-high\nTemperature range: 66-72F(19-22C)"
+    },
+    {
+      "yeast_type" : "Liquid",
+      "DateLastModified" : "\/\/Date:1372128898.094244",
+      "beer_type" : "Ale",
+      "attenuation" : "75.000000",
+      "UUID" : "E7FDF2B6-22D6-11DA-91CE-001124CAE2A6",
+      "name" : "Brewtek CL-0320-Belgian Ale #2",
+      "description" : "A trappist strain giving a complex, dry and fruity profile. The Brewtek yeasts seem to available from specialist sources only.\n\nattenuation 74-76% \nFloculation: medium\nTemperature range: 66-72F(19-22C)"
+    },
+    {
+      "yeast_type" : "Liquid",
+      "DateLastModified" : "\/\/Date:1372128898.354536",
+      "beer_type" : "Ale",
+      "attenuation" : "75.000000",
+      "UUID" : "EEEA16A4-22D6-11DA-91CE-001124CAE2A6",
+      "name" : "Brewtek CL-0340-Belgian Ale #3",
+      "description" : "A fruity, slightly phenolic trappist strain. The Brewtek yeasts seem to available from specialist sources only.\n\nattenuation 74-76% \nFloculation: medium\nTemperature range: 66-72F(19-22C)"
+    },
+    {
+      "yeast_type" : "Liquid",
+      "DateLastModified" : "\/\/Date:1372128898.081622",
+      "beer_type" : "Ale",
+      "attenuation" : "75.000000",
+      "UUID" : "43100076-22D8-11DA-91CE-001124CAE2A6",
+      "name" : "Brewtek CL-0380-Saison",
+      "description" : "A smooth, full-flavored yeast. The Brewtek yeasts seem to available from specialist sources only.\n\nattenuation 74-76% \nFloculation: medium\nTemperature range: 66-72F(19-22C)"
+    },
+    {
+      "yeast_type" : "Liquid",
+      "DateLastModified" : "\/\/Date:1372128898.308340",
+      "beer_type" : "Ale",
+      "attenuation" : "76.000000",
+      "UUID" : "80E80C91-22D8-11DA-91CE-001124CAE2A6",
+      "name" : "Brewtek CL-0400-Old German Ale",
+      "description" : "A smooth, attenuated, mild alt beer strain. The Brewtek yeasts seem to available from specialist sources only.\n\nattenuation 75-77% \nFloculation: medium\nTemperature range: 58-66F(14-19C)"
+    },
+    {
+      "yeast_type" : "Liquid",
+      "DateLastModified" : "\/\/Date:1372128898.120943",
+      "beer_type" : "Lager",
+      "attenuation" : "75.000000",
+      "UUID" : "896ACED6-22D8-11DA-91CE-001124CAE2A6",
+      "name" : "Brewtek CL-0600-Original Pilsner",
+      "description" : "A full-bodied, big, malty lager yeast. The Brewtek yeasts seem to available from specialist sources only.\n\nattenuation 74-76% \nFloculation: medium\nTemperature range: 48-54F(9-12C)"
+    },
+    {
+      "yeast_type" : "Liquid",
+      "DateLastModified" : "\/\/Date:1372128898.171811",
+      "beer_type" : "Lager",
+      "attenuation" : "75.000000",
+      "UUID" : "F7D0E521-22DB-11DA-91CE-001124CAE2A6",
+      "name" : "Brewtek CL-0620-American Megabrewery",
+      "description" : "A smooth, slightly fruity yeast that lagers to a very clean flavor. The Brewtek yeasts seem to available from specialist sources only.\n\nattenuation 74-76% \nFloculation: medium\nTemperature range: 48-54F(9-12C)"
+    },
+    {
+      "yeast_type" : "Liquid",
+      "DateLastModified" : "\/\/Date:1372128898.318485",
+      "beer_type" : "Lager",
+      "attenuation" : "75.000000",
+      "UUID" : "FEFF0902-22DB-11DA-91CE-001124CAE2A6",
+      "name" : "Brewtek CL-0630-American Microbrewery Lager",
+      "description" : "Strong-fermentor which leaves a full-flavored, malty finish. Commonly used by pre-Prohibition breweries. The Brewtek yeasts seem to available from specialist sources only.\n\nattenuation 74-76% \nFloculation: medium\nTemperature range: 48-56F(9-13C)"
+    },
+    {
+      "yeast_type" : "Liquid",
+      "DateLastModified" : "\/\/Date:1372128898.126098",
+      "beer_type" : "Lager",
+      "attenuation" : "73.000000",
+      "UUID" : "0611A4E5-22DC-11DA-91CE-001124CAE2A6",
+      "name" : "Brewtek CL-0650-Old Bavarian Lager",
+      "description" : ""
+    },
+    {
+      "yeast_type" : "Liquid",
+      "DateLastModified" : "\/\/Date:1372128898.203491",
+      "beer_type" : "Lager",
+      "attenuation" : "73.000000",
+      "UUID" : "125B2524-22DC-11DA-91CE-001124CAE2A6",
+      "name" : "Brewtek CL-0660-Northern German Lager",
+      "description" : "The Brewtek yeasts seem to available from specialist sources only."
+    },
+    {
+      "yeast_type" : "Liquid",
+      "DateLastModified" : "\/\/Date:1372128898.139327",
+      "beer_type" : "Lager",
+      "attenuation" : "73.000000",
+      "UUID" : "23DB63CC-22DC-11DA-91CE-001124CAE2A6",
+      "name" : "Brewtek CL-0680-East European Lager",
+      "description" : "The Brewtek yeasts seem to available from specialist sources only."
+    },
+    {
+      "yeast_type" : "Liquid",
+      "DateLastModified" : "\/\/Date:1372128898.097821",
+      "beer_type" : "Lager",
+      "attenuation" : "75.000000",
+      "UUID" : "2A93F2E3-22DC-11DA-91CE-001124CAE2A6",
+      "name" : "Brewtek CL-0690-California Esteem",
+      "description" : "A slightly estery, well-attenuated yeast that recreates the California common style of beer. The Brewtek yeasts seem to available from specialist sources only.\n\nattenuation 74-76% \nFloculation: medium\nTemperature range: 58-64F(14-18C)"
+    },
+    {
+      "yeast_type" : "Liquid",
+      "DateLastModified" : "\/\/Date:1372128898.185008",
+      "beer_type" : "Ale",
+      "attenuation" : "73.000000",
+      "UUID" : "52E8FEBC-22D8-11DA-91CE-001124CAE2A6",
+      "name" : "Brewtek CL-0900-Belgian Wheat",
+      "description" : "A soft, sweet, slight estery yeast that gives bready overtones. The Brewtek yeasts seem to available from specialist sources only.\n\nattenuation 72-74% \nFloculation: medium\nTemperature range: 66-72F(19-22C)"
+    },
+    {
+      "yeast_type" : "Liquid",
+      "DateLastModified" : "\/\/Date:1372128898.134079",
+      "beer_type" : "Ale",
+      "attenuation" : "76.000000",
+      "UUID" : "5A2BB7B4-22D8-11DA-91CE-001124CAE2A6",
+      "name" : "Brewtek CL-0920-German Wheat",
+      "description" : "A true weizenbier strain giving a spicy, clovey flavor profile. The Brewtek yeasts seem to available from specialist sources only.\n\nattenuation 75-77% \nFloculation: high\nTemperature range: 66-72F(19-22C)"
+    },
+    {
+      "yeast_type" : "Liquid",
+      "DateLastModified" : "\/\/Date:1372128898.150368",
+      "beer_type" : "Ale",
+      "attenuation" : "75.000000",
+      "UUID" : "62E4C456-22D8-11DA-91CE-001124CAE2A6",
+      "name" : "Brewtek CL-0930-German Weiss",
+      "description" : "Similer to CL-0920 but milder. The Brewtek yeasts seem to available from specialist sources only.\n\nattenuation 74-76% \nFloculation: medium\nTemperature range: 66-72F(19-22C)"
+    },
+    {
+      "yeast_type" : "Liquid",
+      "DateLastModified" : "\/\/Date:1372128898.266559",
+      "beer_type" : "Ale",
+      "attenuation" : "75.000000",
+      "UUID" : "6AD6C176-22D8-11DA-91CE-001124CAE2A6",
+      "name" : "Brewtek CL-0980-American White Ale",
+      "description" : "A smooth, rounded, clean yeast. The Brewtek yeasts seem to available from specialist sources only.\n\nattenuation 74-76% \nFloculation: low\nTemperature range: 64-70F(18-21C)"
+    },
+    {
+      "yeast_type" : "Liquid",
+      "DateLastModified" : "\/\/Date:1372128898.208805",
+      "beer_type" : "Ale",
+      "attenuation" : "73.000000",
+      "UUID" : "73D67F81-22D8-11DA-91CE-001124CAE2A6",
+      "name" : "Brewtek CL-5200-Brettanomyces Lambicus",
+      "description" : "The Brewtek yeasts seem to available from specialist sources only."
+    },
+    {
+      "yeast_type" : "Liquid",
+      "DateLastModified" : "\/\/Date:1372128898.316823",
+      "beer_type" : "Ale",
+      "attenuation" : "73.000000",
+      "UUID" : "7A385594-22D8-11DA-91CE-001124CAE2A6",
+      "name" : "Brewtek CL-5600-Pediococcus Damnosus",
+      "description" : "The Brewtek yeasts seem to available from specialist sources only."
+    },
+    {
+      "yeast_type" : "Dry",
+      "DateLastModified" : "\/\/Date:1372128898.164350",
+      "beer_type" : "Ale",
+      "attenuation" : "75.000000",
+      "UUID" : "10AE9734-2218-11DA-91CE-001124CAE2A6",
+      "name" : "Coopers-Ale Yeast",
+      "description" : ""
+    },
+    {
+      "yeast_type" : "Dry",
+      "DateLastModified" : "\/\/Date:1372128898.102552",
+      "beer_type" : "Ale",
+      "attenuation" : "75.000000",
+      "UUID" : "9DBED27E-2218-11DA-91CE-001124CAE2A6",
+      "name" : "DCL K-97-SafAle",
+      "description" : "A top-fermenting German ale yeast suitable for beers with low esters levels and can also be used for Belgian type wheat beers.\n\nattenuation: High\nFlocculation: Low\nTemperature range: 59-74F(15-24C)"
+    },
+    {
+      "yeast_type" : "Dry",
+      "DateLastModified" : "\/\/Date:1372128898.337197",
+      "beer_type" : "Ale",
+      "attenuation" : "73.000000",
+      "UUID" : "A5D4F092-2218-11DA-91CE-001124CAE2A6",
+      "name" : "DCL S-04-SafAle",
+      "description" : "A well-known, commercial English ale yeast, selected for its fast fermentation character and its ability to form a very compact sediment at the end of the fermentation, helping to improve beer clarity.  \n\nThis yeast is recommended for the production of a large range of ale beers and is specially well adapted to cask-conditioned ales. \n \nattenuation: Medium\nFlocculation: High\nTemperature range: 59-74F(15-24C)\n"
+    },
+    {
+      "yeast_type" : "Dry",
+      "DateLastModified" : "\/\/Date:1372128898.218341",
+      "beer_type" : "Lager",
+      "attenuation" : "72.500000",
+      "UUID" : "25F62E9E-2219-11DA-91CE-001124CAE2A6",
+      "name" : "DCL S-189-SafLager",
+      "description" : "Actually originating from the Hürlimann brewery in Switzerland, this very popular strain is used by a large number of commercial breweries.  Selected for its fairly neutral flavour development, this yeast is suitable for a wide range of lager and pilsen beers. \n \nattenuation: Medium\nFlocculation: High\nTemperature range: 48-59F(9-15C)"
+    },
+    {
+      "yeast_type" : "Dry",
+      "DateLastModified" : "\/\/Date:1372128898.210168",
+      "beer_type" : "Lager",
+      "attenuation" : "72.500000",
+      "UUID" : "2B4D06E4-2219-11DA-91CE-001124CAE2A6",
+      "name" : "DCL S-23-SafLager",
+      "description" : "Originating from the VLB (Berlin) in Germany, this strain is used by Western European commercial breweries and has been reported to produce lagers with some fruity and estery notes. \n \nattenuation: Medium\nFlocculation: High\nTemperature range: 48-59F(9-15C)"
+    },
+    {
+      "yeast_type" : "Dry",
+      "DateLastModified" : "\/\/Date:1372128898.190110",
+      "beer_type" : "Ale",
+      "attenuation" : "73.000000",
+      "UUID" : "AD7B1706-2218-11DA-91CE-001124CAE2A6",
+      "name" : "DCL S-33-SafBrew",
+      "description" : "A very popular general purpose yeast, especially suited to the production of a varied range of top fermented special beers (Belgian type wheat beers, \nTrappist, etc.).  Sedimentation: medium.  Final gravity: high.    \n\nattenuation: Low\nFlocculation: Medium\nTemperature range: 59-74F(15-24C)"
+    },
+    {
+      "yeast_type" : "Dry",
+      "DateLastModified" : "\/\/Date:1372128898.323534",
+      "beer_type" : "Ale",
+      "attenuation" : "73.000000",
+      "UUID" : "B5916C0D-2218-11DA-91CE-001124CAE2A6",
+      "name" : "DCL T-58-SafBrew",
+      "description" : "A speciality yeast selected for its estery, somewhat peppery and spicy flavour development. Also recommended for bottle-conditioning of beers.  Excellent performance in beers with alcohol contents of up to 8.5% v\/v but can ferment up to 11.5% v\/v. \n  \nattenuation: Low\nFlocculation: Medium\nTemperature range: 59-74F(15-24C)\n"
+    },
+    {
+      "yeast_type" : "Dry",
+      "DateLastModified" : "\/\/Date:1372128898.295291",
+      "beer_type" : "Ale",
+      "attenuation" : "75.000000",
+      "UUID" : "8FADC7CE-A40B-4254-AE35-D941D8910BA2",
+      "name" : "DCL US-05 (formerly US-56) SafAle",
+      "description" : "A famous, popular American ale yeast that produces well balanced beers with low diacetyl and a very clean, crisp end palate.  \n  \nattenuation: Medium\nFlocculation: Low to Medium\nTemperature range: 59-74F(15-24C)\n"
+    },
+    {
+      "yeast_type" : "Dry",
+      "DateLastModified" : "\/\/Date:1372128898.351014",
+      "beer_type" : "Lager",
+      "attenuation" : "75.000000",
+      "UUID" : "52191FDB-6923-45C2-8C16-25DA7BD765D0",
+      "name" : "DCL W-34\/70 Saflager",
+      "description" : "A widely used yeast strain from Weihenstephan in Germany. \n \nattenuation: Medium\nFlocculation: High\nTemperature range: 48-59F(9-15C)"
+    },
+    {
+      "yeast_type" : "Dry",
+      "DateLastModified" : "\/\/Date:1372128898.233773",
+      "beer_type" : "Ale",
+      "attenuation" : "77.000000",
+      "UUID" : "A024D6F4-1F76-432A-9195-324DE83CE1C5",
+      "name" : "DCL WB-06 Safbrew",
+      "description" : "A speciality yeast selected for wheat beer fermentations. The yeast produces subtle estery and phenol flavour notes typical of wheat beers.\n \nattenuation: High\nFlocculation: Low\nTemperature range: 59-74F(15-24C)\n"
+    },
+    {
+      "yeast_type" : "Dry",
+      "DateLastModified" : "\/\/Date:1372128898.182399",
+      "beer_type" : "Ale",
+      "attenuation" : "75.000000",
+      "UUID" : "8FE59184-2217-11DA-91CE-001124CAE2A6",
+      "name" : "Danstar-Nottingham",
+      "description" : "The Nottingham strain is highly flocculent and well attenuating yeast. It is clean and neutral allowing the flavours of malt and hops to dominate. Good tolerance to low fermentation temperatures.\n\nTemperature range: 57-70F(14-21C)\n"
+    },
+    {
+      "yeast_type" : "Dry",
+      "DateLastModified" : "\/\/Date:1372128898.198040",
+      "beer_type" : "Ale",
+      "attenuation" : "73.000000",
+      "UUID" : "89017B39-2217-11DA-91CE-001124CAE2A6",
+      "name" : "Danstar-Windsor",
+      "description" : ""
+    },
+    {
+      "yeast_type" : "Dry",
+      "DateLastModified" : "\/\/Date:1372128898.140758",
+      "beer_type" : "Ale",
+      "attenuation" : "75.000000",
+      "UUID" : "2B844BEE-2218-11DA-91CE-001124CAE2A6",
+      "name" : "Doric-Ale Yeast",
+      "description" : ""
+    },
+    {
+      "yeast_type" : "Dry",
+      "DateLastModified" : "\/\/Date:1372128898.106278",
+      "beer_type" : "Ale",
+      "attenuation" : "75.000000",
+      "UUID" : "3D152F91-2218-11DA-91CE-001124CAE2A6",
+      "name" : "EDME-Ale Yeast",
+      "description" : ""
+    },
+    {
+      "yeast_type" : "Dry",
+      "DateLastModified" : "\/\/Date:1372128898.119622",
+      "beer_type" : "Ale",
+      "attenuation" : "75.000000",
+      "UUID" : "031E2781-A80B-4C8C-B1C3-D02A9310E68E",
+      "name" : "Gervin English Ale Yeast",
+      "description" : "Very similar to the Nottingham strain, this yeast is highly flocculent and well attenuating yeast. It is clean and neutral allowing the flavours of malt and hops to dominate. Good tolerance to low fermentation temperatures.\n\nTemperature range: 57-70F(14-21C)"
+    },
+    {
+      "yeast_type" : "Dry",
+      "DateLastModified" : "\/\/Date:1372128898.232375",
+      "beer_type" : "Ale",
+      "attenuation" : "75.000000",
+      "UUID" : "563BDC76-2218-11DA-91CE-001124CAE2A6",
+      "name" : "Glenbrew-Special Ale Yeast",
+      "description" : ""
+    },
+    {
+      "yeast_type" : "Liquid",
+      "DateLastModified" : "\/\/Date:1372128898.161508",
+      "beer_type" : "Ale",
+      "attenuation" : "75.000000",
+      "UUID" : "D8C4087B-9826-4CE4-83FF-7FB4306D8D13",
+      "name" : "Live Brewery Yeast",
+      "description" : ""
+    },
+    {
+      "yeast_type" : "Dry",
+      "DateLastModified" : "\/\/Date:1372128898.229557",
+      "beer_type" : "Ale",
+      "attenuation" : "75.000000",
+      "UUID" : "5EAF38A0-2218-11DA-91CE-001124CAE2A6",
+      "name" : "Muntons And Fisons-Ale Yeast",
+      "description" : ""
+    },
+    {
+      "yeast_type" : "Liquid",
+      "DateLastModified" : "\/\/Date:1372128898.149032",
+      "beer_type" : "Ale",
+      "attenuation" : "76.500000",
+      "UUID" : "58D7C730-22D1-11DA-91CE-001124CAE2A6",
+      "name" : "White Labs WLP001-California Ale",
+      "description" : "A crisp, clean yeast with low fruitiness and little ester production. Accentuates hop flavors. \n\nattenuation: 73-80% \nFlocculation: Medium \nTemperature range: 68-73F(20-23C)\n"
+    },
+    {
+      "yeast_type" : "Liquid",
+      "DateLastModified" : "\/\/Date:1372128898.296935",
+      "beer_type" : "Ale",
+      "attenuation" : "66.500000",
+      "UUID" : "7009F10F-22D1-11DA-91CE-001124CAE2A6",
+      "name" : "White Labs WLP002-English Ale",
+      "description" : "A very flocculant yeast that is great for cask ales. Somewhat less attenuative than most other ale strains. Tends to give fruity ales - especially as the temperature increases.\n\nattenuation: 63-70% \nFlocculation: Very High \nTemperature range: 65-68F(18-20C)"
+    },
+    {
+      "yeast_type" : "Liquid",
+      "DateLastModified" : "\/\/Date:1372128898.211510",
+      "beer_type" : "Ale",
+      "attenuation" : "76.500000",
+      "UUID" : "78D0783D-22D1-11DA-91CE-001124CAE2A6",
+      "name" : "White Labs WLP003-German Ale II",
+      "description" : "A good yeast for Kolsch and Alt beers. Produces quite a lot of sulfur but that fades with age. Fairly clean.\n\nattenuation: 73-80% \nFlocculation: Medium\nTemperature range: 65-70F(18-21C)\n"
+    },
+    {
+      "yeast_type" : "Liquid",
+      "DateLastModified" : "\/\/Date:1372128898.142132",
+      "beer_type" : "Ale",
+      "attenuation" : "71.500000",
+      "UUID" : "7F34464A-22D1-11DA-91CE-001124CAE2A6",
+      "name" : "White Labs WLP004-Irish Ale",
+      "description" : "Great for Irish ales, stouts, porters, browns and reds, this yeast produces a hint of diacetyl and some fruitiness.\n\nattenuation: 69-74% \nFlocculation: Medium-High\nTemperature range: 65-68F(18-20C)\n\n"
+    },
+    {
+      "yeast_type" : "Liquid",
+      "DateLastModified" : "\/\/Date:1372128898.176116",
+      "beer_type" : "Ale",
+      "attenuation" : "70.500000",
+      "UUID" : "8AEA4C16-22D1-11DA-91CE-001124CAE2A6",
+      "name" : "White Labs WLP005-British Ale",
+      "description" : "Somewhat more attenuative than WLP002, this yeast produces malty beers.\n\nattenuation: 67-74% \nFlocculation: High\nTemperature range: 65-70F(18-21C)\n"
+    },
+    {
+      "yeast_type" : "Liquid",
+      "DateLastModified" : "\/\/Date:1372128898.151716",
+      "beer_type" : "Ale",
+      "attenuation" : "76.000000",
+      "UUID" : "918FA49C-22D1-11DA-91CE-001124CAE2A6",
+      "name" : "White Labs WLP006-Bedford British Ale",
+      "description" : "A dry-finishing, flocculant yeast with a distinct ester profile.\n\nattenuation: 72-80% \nFlocculation: High\nTemperature range: 65-70F(18-21C)\n\n"
+    },
+    {
+      "yeast_type" : "Liquid",
+      "DateLastModified" : "\/\/Date:1372128898.080514",
+      "beer_type" : "Ale",
+      "attenuation" : "75.000000",
+      "UUID" : "98C9D17E-22D1-11DA-91CE-001124CAE2A6",
+      "name" : "White Labs WLP007-Dry English Ale",
+      "description" : "Similar in flavor to WLP002, this is a clean, flocculant yeast. It is somewhat more attenuative that WLP002 however.\n\nattenuation: 70-80% \nFlocculation: High\nTemperature range: 65-70F(18-21C)\n"
+    },
+    {
+      "yeast_type" : "Liquid",
+      "DateLastModified" : "\/\/Date:1372128898.248272",
+      "beer_type" : "Ale",
+      "attenuation" : "72.500000",
+      "UUID" : "A3AED870-22D1-11DA-91CE-001124CAE2A6",
+      "name" : "White Labs WLP008-East Coast Ale",
+      "description" : "A clean, neutral yeast that is less attenuative than WLP001 and emphasises hope flavors to a lesser degree. Suitable for a wide range of American ale styles.\n\nattenuation: 70-75% \nFlocculation: Low to Medium\nTemperature range: 68-73F(20-23C)"
+    },
+    {
+      "yeast_type" : "Liquid",
+      "DateLastModified" : "\/\/Date:1372128898.074726",
+      "beer_type" : "Ale",
+      "attenuation" : "72.500000",
+      "UUID" : "D486EF26-6971-11DA-914D-001124CAE2A6",
+      "name" : "White Labs WLP009-Australian Ale",
+      "description" : ""
+    },
+    {
+      "yeast_type" : "Liquid",
+      "DateLastModified" : "\/\/Date:1372128898.280818",
+      "beer_type" : "Ale",
+      "attenuation" : "77.500000",
+      "UUID" : "F19C45CA-6971-11DA-914D-001124CAE2A6",
+      "name" : "White Labs WLP010-10th Anniversary Blend",
+      "description" : "A blend of four yeasts - WLP001, WLP002, WLP004 and WLP810.\n\nattenuation: 75-80% \nFlocculation: Medium\nTemperature range: 65-70F(18-21C)"
+    },
+    {
+      "yeast_type" : "Liquid",
+      "DateLastModified" : "\/\/Date:1372128898.309970",
+      "beer_type" : "Ale",
+      "attenuation" : "67.500000",
+      "UUID" : "40EEA37A-22D2-11DA-91CE-001124CAE2A6",
+      "name" : "White Labs WLP011-European Ale",
+      "description" : "A European ale yeast with lowish attenuation that gives clean, malty beers. Good for alt, kolsch etc.\n\nattenuation: 65-70% \nFlocculation: Medium\nTemperature range: 65-70F(18-21C)"
+    },
+    {
+      "yeast_type" : "Liquid",
+      "DateLastModified" : "\/\/Date:1372128898.160107",
+      "beer_type" : "Ale",
+      "attenuation" : "71.000000",
+      "UUID" : "496C6A45-22D2-11DA-91CE-001124CAE2A6",
+      "name" : "White Labs WLP013-London Ale",
+      "description" : "A dry, malty ale yeast that produces complex, oaky beers. Somewhat less flocculant than WLP002 and WLP005\n\nattenuation: 67-75% \nFlocculation: Medium\nTemperature range: 66-71F(18-21C)"
+    },
+    {
+      "yeast_type" : "Liquid",
+      "DateLastModified" : "\/\/Date:1372128898.279293",
+      "beer_type" : "Ale",
+      "attenuation" : "70.000000",
+      "UUID" : "0F11B06A-6972-11DA-914D-001124CAE2A6",
+      "name" : "White Labs WLP017-Whitbread Ale",
+      "description" : "A mixed yeast culture that gives slightly fruity, British-style ales with a hint of sulfur.\n\nattenuation: 67-73% \nFlocculation: Medium\nTemperature range: 66-70F(18-21C)"
+    },
+    {
+      "yeast_type" : "Liquid",
+      "DateLastModified" : "\/\/Date:1372128898.272953",
+      "beer_type" : "Ale",
+      "attenuation" : "73.500000",
+      "UUID" : "508CEFA8-22D2-11DA-91CE-001124CAE2A6",
+      "name" : "White Labs WLP022-Essex Ale",
+      "description" : "This yeast produces slightly fruity ales with a bready character. A true top fermenting strain this yeast finishes drier than many British ale yeasts.\n\nattenuation: 71-76% \nFlocculation: Medium to High\nTemperature range: 66-70F(18-21C)"
+    },
+    {
+      "yeast_type" : "Liquid",
+      "DateLastModified" : "\/\/Date:1372128898.105002",
+      "beer_type" : "Ale",
+      "attenuation" : "72.000000",
+      "UUID" : "58A87536-22D2-11DA-91CE-001124CAE2A6",
+      "name" : "White Labs WLP023-Burton Ale",
+      "description" : "A characterful yeast with subtle fruity notes. Great for English style beers.\n\nattenuation: 69-75% \nFlocculation: Medium\nTemperature range: 68-73F(20-23C)"
+    },
+    {
+      "yeast_type" : "Liquid",
+      "DateLastModified" : "\/\/Date:1372128898.338949",
+      "beer_type" : "Ale",
+      "attenuation" : "71.000000",
+      "UUID" : "5F493508-22D2-11DA-91CE-001124CAE2A6",
+      "name" : "White Labs WLP025-Southwold Ale",
+      "description" : "A complex, fruity yeast. Produces some sulfur during fermentation.\n\nattenuation: 68-75% \nFlocculation: Medium\nTemperature range: 66-69F(19-21C)"
+    },
+    {
+      "yeast_type" : "Liquid",
+      "DateLastModified" : "\/\/Date:1372128898.274539",
+      "beer_type" : "Ale",
+      "attenuation" : "72.500000",
+      "UUID" : "66A03E64-22D2-11DA-91CE-001124CAE2A6",
+      "name" : "White Labs WLP026-Premium Bitter Ale",
+      "description" : "A quite attenuative ale yeast that gives mild yet complex flavor with an estery character.\n\nattenuation: 70-75% \nFlocculation: Medium\nTemperature range: 67-70F(19-21C)"
+    },
+    {
+      "yeast_type" : "Liquid",
+      "DateLastModified" : "\/\/Date:1372128898.222551",
+      "beer_type" : "Ale",
+      "attenuation" : "72.500000",
+      "UUID" : "730C3908-22D2-11DA-91CE-001124CAE2A6",
+      "name" : "White Labs WLP028-Edinburgh Ale",
+      "description" : "Produces complex, flavorful ales. Does not reduce hop character as much as WLP002.\n\nattenuation: 70-75% \nFlocculation: Medium\nTemperature range: 65-70F(18-21C)"
+    },
+    {
+      "yeast_type" : "Liquid",
+      "DateLastModified" : "\/\/Date:1372128898.245320",
+      "beer_type" : "Ale",
+      "attenuation" : "75.000000",
+      "UUID" : "7B378646-22D2-11DA-91CE-001124CAE2A6",
+      "name" : "White Labs WLP029-German Ale\/Kolsch",
+      "description" : "This yeast accentuates hop character and is good for light beers. Ferments to give a clean, lager-like ale.\n\nattenuation: 72-78% \nFlocculation: Medium\nTemperature range: 65-69F(18-21C)"
+    },
+    {
+      "yeast_type" : "Liquid",
+      "DateLastModified" : "\/\/Date:1372128898.186281",
+      "beer_type" : "Ale",
+      "attenuation" : "70.000000",
+      "UUID" : "382B80E0-22D3-11DA-91CE-001124CAE2A6",
+      "name" : "White Labs WLP033-Klassic Ale",
+      "description" : "A traditional English ale yeast that has a distinctive ester profile and doesn't mask hop character. Leaves the beer slightly sweet.\n\nattenuation: 66-74% \nFlocculation: Medium\nTemperature range: 66-70F(18-21C)"
+    },
+    {
+      "yeast_type" : "Liquid",
+      "DateLastModified" : "\/\/Date:1372128898.221175",
+      "beer_type" : "Ale",
+      "attenuation" : "68.500000",
+      "UUID" : "303A5E3E-6972-11DA-914D-001124CAE2A6",
+      "name" : "White Labs WLP036-Dusseldorf Alt",
+      "description" : "A German Alt beer yeast that produces clean, slightly sweet beers. Doesn't accentuate the hops like WLP029.\n\nattenuation: 65-72% \nFlocculation: Medium\nTemperature range: 65-69F(18-21C)"
+    },
+    {
+      "yeast_type" : "Liquid",
+      "DateLastModified" : "\/\/Date:1372128898.212867",
+      "beer_type" : "Ale",
+      "attenuation" : "70.000000",
+      "UUID" : "5595DE58-12CA-4464-8E80-B97DEAE25DD9",
+      "name" : "White Labs WLP037-Yorkshire Square Ale",
+      "description" : "This yeast produces a beer that is malty, but well-balanced. Expect flavors that are toasty with malt-driven esters. Highly flocculent and good choice for English pale ales, English brown ales, and mild ales.\n\nattenuation: 68-72% \nFlocculation: Medium-High\nTemperature range: 65-69F(18-21C)"
+    },
+    {
+      "yeast_type" : "Liquid",
+      "DateLastModified" : "\/\/Date:1372128898.238064",
+      "beer_type" : "Ale",
+      "attenuation" : "77.000000",
+      "UUID" : "A61D5857-D45F-4230-931E-B1D879BA4700",
+      "name" : "White Labs WLP039-East Midlands Ale Yeast",
+      "description" : "British style ale yeast with a very dry finish. Medium to low fruit and fusel alcohol production. Good top fermenting yeast strain, is well suited for top cropping (collecting). This yeast is well suited for pale ales, ambers, porters, and stouts. \n\nattenuation: 73-82% \nFlocculation: Medium to High\nTemperature range: 66-70F(19-21C)"
+    },
+    {
+      "yeast_type" : "Liquid",
+      "DateLastModified" : "\/\/Date:1372128898.261886",
+      "beer_type" : "Ale",
+      "attenuation" : "67.500000",
+      "UUID" : "48371680-6972-11DA-914D-001124CAE2A6",
+      "name" : "White Labs WLP041-Pacific Ale",
+      "description" : "A flocculent yeast that makes a malty beer. Fruitier than WLP002.\n\nattenuation: 65-70% \nFlocculation: High\nTemperature range: 65-68F(18-20C)"
+    },
+    {
+      "yeast_type" : "Liquid",
+      "DateLastModified" : "\/\/Date:1372128898.147626",
+      "beer_type" : "Ale",
+      "attenuation" : "72.500000",
+      "UUID" : "40F01470-22D3-11DA-91CE-001124CAE2A6",
+      "name" : "White Labs WLP051-California Ale V",
+      "description" : "Fruitier, more flocculent but less attenuative than WLP001.\n\nattenuation: 70-75% \nFlocculation: Medium to High\nTemperature range: 66-70F(19-21C)"
+    },
+    {
+      "yeast_type" : "Liquid",
+      "DateLastModified" : "\/\/Date:1372128898.113244",
+      "beer_type" : "Ale",
+      "attenuation" : "76.000000",
+      "UUID" : "5AE29E44-6972-11DA-914D-001124CAE2A6",
+      "name" : "White Labs WLP060-American Ale Blend",
+      "description" : "A blend of WLP001 (California Ale) with two other strains. This blend gives a beer that is more lager-like than WLP001.\n\nattenuation: 72-80% \nFlocculation: Medium\nTemperature range: 68-72F(20-22C)"
+    },
+    {
+      "yeast_type" : "Liquid",
+      "DateLastModified" : "\/\/Date:1372128898.358100",
+      "beer_type" : "Ale",
+      "attenuation" : "71.000000",
+      "UUID" : "43859757-7336-463D-8185-00D20F6AD07B",
+      "name" : "White Labs WLP072-French Ale",
+      "description" : "Clean strain that emphasises malt flavor. Low esters below 70F\/21C with ester production increasing above this. Good for Biere de Garde and other French ale styles.\n\nattenuation: 68-75% \nFlocculation: Medium High\nTemperature range: 63-73F(17-22C)"
+    },
+    {
+      "yeast_type" : "Liquid",
+      "DateLastModified" : "\/\/Date:1372128898.177403",
+      "beer_type" : "Ale",
+      "attenuation" : "77.500000",
+      "UUID" : "FFFFCF34-AC52-42F5-A552-8A21D6993486",
+      "name" : "White Labs WLP080-Cream Ale Blend",
+      "description" : "A blend of lager and ale strains that produces a clean crisp beer. Hop flavors and bitterness are slightly subdued.\n\nattenuation: 75-80% \nFlocculation: Medium\nTemperature range: 65-70F(18-21C)"
+    },
+    {
+      "yeast_type" : "Liquid",
+      "DateLastModified" : "\/\/Date:1372128898.290444",
+      "beer_type" : "Ale",
+      "attenuation" : "72.500000",
+      "UUID" : "5B74046D-071D-4F87-B40F-2942C3415337",
+      "name" : "White Labs WLP085-English Ale Blend",
+      "description" : "A blend of English ale strains with moderate fruitiness and mineral-like. Drier than WLP002 or WLP005\n\nattenuation: 69-76% \nFlocculation: Medium High\nTemperature range: 68-72F(20-22C)"
+    },
+    {
+      "yeast_type" : "Liquid",
+      "DateLastModified" : "\/\/Date:1372128898.192707",
+      "beer_type" : "Ale",
+      "attenuation" : "80.000000",
+      "UUID" : "B46C8559-E26B-4A56-81B2-3F425A267C1B",
+      "name" : "White Labs WLP090-San Diego Super Yeast",
+      "description" : "A super clean, super-fast fermenting strain. A low ester-producing strain that results in a balanced, neutral flavor and aroma profile. Alcohol-tolerant and very versatile for a wide variety of styles. Similar to California Ale Yeast WLP001 but it generally ferments faster. \n\nattenuation: 76-83% +\nFlocculation: Medium-High\nOptimal Fermentation Temperature: 65-68F (18-20C)"
+    },
+    {
+      "yeast_type" : "Liquid",
+      "DateLastModified" : "\/\/Date:1372128898.365225",
+      "beer_type" : "Ale",
+      "attenuation" : "76.500000",
+      "UUID" : "46F78771-22D3-11DA-91CE-001124CAE2A6",
+      "name" : "White Labs WLP099-Super High Gravity Ale",
+      "description" : "An English strain that can tolerate up to 25% alcohol. Ester character increases with gravity. At lower gravities malt dominates.\n\nattenuation: >80% \nFlocculation: Medium\nTemperature range: 65-69F(18-21C)"
+    },
+    {
+      "yeast_type" : "Liquid",
+      "DateLastModified" : "\/\/Date:1372128898.100168",
+      "beer_type" : "Ale",
+      "attenuation" : "74.000000",
+      "UUID" : "5107B822-22D3-11DA-91CE-001124CAE2A6",
+      "name" : "White Labs WLP300-Hefeweizen Ale",
+      "description" : "A genuine German whear beer yeast that gives the traditional banana and clove aroma and leaves the beer cloudy.\n\nattenuation: 72-76% \nFlocculation: Low\nTemperature range: 68-72F(20-22C)"
+    },
+    {
+      "yeast_type" : "Liquid",
+      "DateLastModified" : "\/\/Date:1372128898.206103",
+      "beer_type" : "Ale",
+      "attenuation" : "72.500000",
+      "UUID" : "58921198-22D3-11DA-91CE-001124CAE2A6",
+      "name" : "White Labs WLP320-American Hefeweizen Ale",
+      "description" : "A yeast for American style hefeweizen producing little banana or clove. Produces a little sulfur but is otherwise quite clean. Leaves the beer cloudy.\n\nattenuation: 73-77% \nFlocculation: Low\nTemperature range: 66-70F(19-21C)"
+    },
+    {
+      "yeast_type" : "Liquid",
+      "DateLastModified" : "\/\/Date:1372128898.230961",
+      "beer_type" : "Ale",
+      "attenuation" : "75.000000",
+      "UUID" : "6EEE8999-6972-11DA-914D-001124CAE2A6",
+      "name" : "White Labs WLP351-Bavarian Weizen",
+      "description" : "The original Yeast Labs W51 strain producing a beer with  moderately high, spicy, phenolic clovey overtones.\n\nattenuation: 73-77% \nFlocculation: Low\nTemperature range: 66-70F(19-21C)"
+    },
+    {
+      "yeast_type" : "Liquid",
+      "DateLastModified" : "\/\/Date:1372128898.096593",
+      "beer_type" : "Ale",
+      "attenuation" : "76.500000",
+      "UUID" : "5EECB2E4-22D3-11DA-91CE-001124CAE2A6",
+      "name" : "White Labs WLP380-Hefeweizen IV Ale",
+      "description" : "This yeast produces a lot of clove but little banana with citrus, apricot notes. Less flocculent that WLP300 with higher sulfur.\n\nattenuation: 73-80% \nFlocculation: Low\nTemperature range: 66-70F(19-21C)"
+    },
+    {
+      "yeast_type" : "Liquid",
+      "DateLastModified" : "\/\/Date:1372128898.115772",
+      "beer_type" : "Ale",
+      "attenuation" : "76.000000",
+      "UUID" : "6641F869-22D3-11DA-91CE-001124CAE2A6",
+      "name" : "White Labs WLP400-Belgian Wit Ale",
+      "description" : "A slightly phenolic and tart Belgian Wit yeast.\n\nattenuation: 74-78% \nFlocculation: Low to Medium\nTemperature range: 67-74F(19-23C)"
+    },
+    {
+      "yeast_type" : "Liquid",
+      "DateLastModified" : "\/\/Date:1372128898.079411",
+      "beer_type" : "Ale",
+      "attenuation" : "72.500000",
+      "UUID" : "6D7CD027-22D3-11DA-91CE-001124CAE2A6",
+      "name" : "White Labs WLP410-Belgian Wit II",
+      "description" : "Less phenolic, spicier, less attenuative and more flocculent than WLP400.\n\nattenuation: 74-78% \nFlocculation: Low to Medium\nTemperature range: 67-74F(19-23C)"
+    },
+    {
+      "yeast_type" : "Liquid",
+      "DateLastModified" : "\/\/Date:1372128898.122190",
+      "beer_type" : "Ale",
+      "attenuation" : "77.500000",
+      "UUID" : "77655C7C-22D3-11DA-91CE-001124CAE2A6",
+      "name" : "White Labs WLP500-Trappist Ale",
+      "description" : "A fruity, plummy yeast from a Trappist brewery.\n\nattenuation: 75-80% \nFlocculation: Low to Medium\nTemperature range: 65-72F(18-22C)"
+    },
+    {
+      "yeast_type" : "Liquid",
+      "DateLastModified" : "\/\/Date:1372128898.372422",
+      "beer_type" : "Ale",
+      "attenuation" : "77.000000",
+      "UUID" : "7EEB9CF4-22D3-11DA-91CE-001124CAE2A6",
+      "name" : "White Labs WLP510-Bastogne Belgian Ale",
+      "description" : "The yeast produces a dry, slightly tart beer which is cleaner than some of the other Belgian strains with less spice character.\n\nattenuation: 75-80% \nFlocculation: Medium\nTemperature range: 66-72F(18-22C)"
+    },
+    {
+      "yeast_type" : "Liquid",
+      "DateLastModified" : "\/\/Date:1372128898.110030",
+      "beer_type" : "Ale",
+      "attenuation" : "76.500000",
+      "UUID" : "C7900530-90BF-43AA-8ED0-CAC7B7EADCA3",
+      "name" : "White Labs WLP515-Antwerp Ale",
+      "description" : "Clean, lager-like Belgian ale yeast that accents hops flavors and bitterness. Some sulfur.\n\nattenuation: 73-80% \nFlocculation: Medium\nTemperature range: 67-70F(19-21C)"
+    },
+    {
+      "yeast_type" : "Liquid",
+      "DateLastModified" : "\/\/Date:1372128898.320144",
+      "beer_type" : "Ale",
+      "attenuation" : "77.500000",
+      "UUID" : "8522D0B0-22D3-11DA-91CE-001124CAE2A6",
+      "name" : "White Labs WLP530-Abbey Ale",
+      "description" : "Less fruity and more alcohol tolerant than WLP500, this yeast is used by a number of Belgian Trappist breweries.\n\nattenuation: 75-80% \nFlocculation: Medium to High\nTemperature range: 66-72F(18-22C)"
+    },
+    {
+      "yeast_type" : "Liquid",
+      "DateLastModified" : "\/\/Date:1372128898.165786",
+      "beer_type" : "Ale",
+      "attenuation" : "76.000000",
+      "UUID" : "AEB61251-4C12-4AFF-86BE-0D3BCAAE042D",
+      "name" : "White Labs WLP540-Abbey IV Ale Yeast",
+      "description" : "An authentic Trappist style yeast. Use for Belgian style ales, dubbels, tripples, and specialty beers. Fruit character is medium, in between WLP500 (high) and WLP530 (low).\n\nattenuation: 74-82%\nFlocculation: Medium\nOptimum Fermentation Temperature: 66-72°F (19-22C)\t"
+    },
+    {
+      "yeast_type" : "Liquid",
+      "DateLastModified" : "\/\/Date:1372128898.268168",
+      "beer_type" : "Ale",
+      "attenuation" : "82.000000",
+      "UUID" : "490D2CF4-D9D0-4554-B383-A8B585A79402",
+      "name" : "White Labs WLP545-Belgian Strong Ale Yeast",
+      "description" : "From the Ardennes region of Belgium, this classic yeast strain produces moderate levels of ester and spicy phenolic character. Typically results in a dry, but balanced finish. This yeast is well suited for Belgian dark strongs, Abbey Ales, and Christmas beers.\n\nattenuation: 78-85%\nFlocculation: Medium\nOptimum Fermentation Temperature: 66-72F (19-22C) "
+    },
+    {
+      "yeast_type" : "Liquid",
+      "DateLastModified" : "\/\/Date:1372128898.328705",
+      "beer_type" : "Ale",
+      "attenuation" : "81.500000",
+      "UUID" : "914F26D6-22D3-11DA-91CE-001124CAE2A6",
+      "name" : "White Labs WLP550-Belgian Ale",
+      "description" : "A phenolic, spicy strain that is suitable for a variety of Belgian ale styles (eg Saison, Red Ales, Brown Ales etc).\n\nattenuation: 78-85% \nFlocculation: Medium\nTemperature range: 68-78F(20-26C)"
+    },
+    {
+      "yeast_type" : "Liquid",
+      "DateLastModified" : "\/\/Date:1372128898.118300",
+      "beer_type" : "Ale",
+      "attenuation" : "70.000000",
+      "UUID" : "9C92E460-22D3-11DA-91CE-001124CAE2A6",
+      "name" : "White Labs WLP565-Belgian Saison I",
+      "description" : "A classic Wallonian Saison yeast producing earthy, peppery and spicy notes. Finishes somewhat sweet.\n\nattenuation: 65-75% \nFlocculation: Medium\nTemperature range: 68-75F(20-24C)"
+    },
+    {
+      "yeast_type" : "Liquid",
+      "DateLastModified" : "\/\/Date:1372128898.168938",
+      "beer_type" : "Ale",
+      "attenuation" : "81.500000",
+      "UUID" : "BE753D0C-8569-4FFA-8C28-4802AB5BD152",
+      "name" : "White Labs WLP566-Belgian Saison II",
+      "description" : "A fruitier, more attenuative Saison yeast than WLP565 that produces a moderate clove-like charcater in the finished beer.\n\nattenuation: 78-85% \nFlocculation: Medium\nTemperature range: 68-78F(20-25C)"
+    },
+    {
+      "yeast_type" : "Liquid",
+      "DateLastModified" : "\/\/Date:1372128898.239495",
+      "beer_type" : "Ale",
+      "attenuation" : "75.000000",
+      "UUID" : "AC4E8E05-F27A-4916-939D-B0200093A67E",
+      "name" : "White Labs WLP568-Belgian Style Saison Ale Yeast Blend ",
+      "description" : "A blend of Belgian Ale and Saison yeasts that aims overcome the sluggishness often observed with WLP565 alone. Complex, fruity flavors and aromas as well as phenolic, spicy, earthy, and clove like flavors are created. \n\nattenuation: 70-80% \nFlocculation: Medium \nOptimum Fermentation Temperature: 70-80°F (21-27C)\nAlcohol Tolerance: Medium "
+    },
+    {
+      "yeast_type" : "Liquid",
+      "DateLastModified" : "\/\/Date:1372128898.075899",
+      "beer_type" : "Ale",
+      "attenuation" : "75.500000",
+      "UUID" : "A536C488-22D3-11DA-91CE-001124CAE2A6",
+      "name" : "White Labs WLP570-Belgian Golden Ale",
+      "description" : "A versatile Belgian ale yeast that produces beers with a fuity, phenolic character.\n\nattenuation: 73-78% \nFlocculation: Low\nTemperature range: 68-75F(20-24C)"
+    },
+    {
+      "yeast_type" : "Liquid",
+      "DateLastModified" : "\/\/Date:1372128898.361638",
+      "beer_type" : "Ale",
+      "attenuation" : "77.000000",
+      "UUID" : "9137474C-6972-11DA-914D-001124CAE2A6",
+      "name" : "White Labs WLP575-Belgian Style Ale Blend",
+      "description" : "A versatile blend of two Trappist and one Belgian ale yeasts.\n\nattenuation: 74-80% \nFlocculation: Medium\nTemperature range: 68-75F(20-24C)"
+    },
+    {
+      "yeast_type" : "Liquid",
+      "DateLastModified" : "\/\/Date:1372128898.293704",
+      "beer_type" : "Ale",
+      "attenuation" : "77.000000",
+      "UUID" : "BC4A60CE-F330-4F61-989B-98D5782B807B",
+      "name" : "White Labs WLP585-Belgian Saison III",
+      "description" : "Produces beer with a high fruit ester characteristic, as well as some slight tartness. Finishes slightly malty, which balances out the esters. Also produces low levels of clovey phenolics. Great yeast choice for a summer Saison that is light and easy-drinking.\n\nattenuation: 70-74%\nFlocculation: Low-Medium\nOptimal Temp: 68-75F (20-24C)"
+    },
+    {
+      "yeast_type" : "Liquid",
+      "DateLastModified" : "\/\/Date:1372128898.204804",
+      "beer_type" : "Lager",
+      "attenuation" : "74.500000",
+      "UUID" : "ACC0FF90-22D3-11DA-91CE-001124CAE2A6",
+      "name" : "White Labs WLP800-Pilsner Lager",
+      "description" : "A classic Czech pilsner yeast that finishes dry and malty.\n\nattenuation: 72-77% \nFlocculation: Medium to High\nTemperature range: 50-55F(10-13C)"
+    },
+    {
+      "yeast_type" : "Liquid",
+      "DateLastModified" : "\/\/Date:1372128898.325281",
+      "beer_type" : "Lager",
+      "attenuation" : "77.500000",
+      "UUID" : "B2F6E80A-22D3-11DA-91CE-001124CAE2A6",
+      "name" : "White Labs WLP802-Czech Budejovice Lager",
+      "description" : "A lager yeast from the southern Czech Republic producing dry, crisp lagers with little diacetyl.\n\nattenuation: 75-80% \nFlocculation: Medium\nTemperature range: 50-55F(10-13C)"
+    },
+    {
+      "yeast_type" : "Liquid",
+      "DateLastModified" : "\/\/Date:1372128898.084956",
+      "beer_type" : "Lager",
+      "attenuation" : "67.500000",
+      "UUID" : "1720FD42-22D5-11DA-91CE-001124CAE2A6",
+      "name" : "White Labs WLP810-San Francisco Lager",
+      "description" : "This unique lager strain is capable of producing lager beers at much higher temperatures than usual.\n\nattenuation: 65-70% \nFlocculation: High\nTemperature range: 58-65F(14-18C)"
+    },
+    {
+      "yeast_type" : "Liquid",
+      "DateLastModified" : "\/\/Date:1372128898.332160",
+      "beer_type" : "Lager",
+      "attenuation" : "75.000000",
+      "UUID" : "CE08AA8A-0E33-4717-9A62-538C2BEA5D43",
+      "name" : "White Labs WLP815-Belgian Lager",
+      "description" : "Clean, crisp European lager yeast with low sulfur  production. The strain originates from a very old brewery in West Belgium. Great for European style pilsners, dark lagers, Vienna lager, and American style lagers. \n\nattenuation: 72-78%\nFlocculation: Medium\nOptimum Fermentation Temperature: 50-55°F (10-12°C)"
+    },
+    {
+      "yeast_type" : "Liquid",
+      "DateLastModified" : "\/\/Date:1372128898.315068",
+      "beer_type" : "Lager",
+      "attenuation" : "69.000000",
+      "UUID" : "1DD71496-22D5-11DA-91CE-001124CAE2A6",
+      "name" : "White Labs WLP820-Oktoberfest\/Marzen Lager",
+      "description" : "This yeast produces a very malty, bock-style beer. Less attenuative than WLP830, this yeast can also be slow in the first generation so a larger starter may be advisable.\n\nattenuation: 65-73% \nFlocculation: Medium\nTemperature range: 52-58F(11-14C)"
+    },
+    {
+      "yeast_type" : "Liquid",
+      "DateLastModified" : "\/\/Date:1372128898.265007",
+      "beer_type" : "Lager",
+      "attenuation" : "76.500000",
+      "UUID" : "251B89C6-22D5-11DA-91CE-001124CAE2A6",
+      "name" : "White Labs WLP830-German Lager",
+      "description" : "Very malty and clean, this yeast is widely used in commercial breweries.\n\nattenuation: 74-79% \nFlocculation: Medium\nTemperature range: 50-55F(10-13C)"
+    },
+    {
+      "yeast_type" : "Liquid",
+      "DateLastModified" : "\/\/Date:1372128898.298599",
+      "beer_type" : "Lager",
+      "attenuation" : "73.000000",
+      "UUID" : "2C07FDF0-22D5-11DA-91CE-001124CAE2A6",
+      "name" : "White Labs WLP833-German Bock Lager",
+      "description" : "This is a well-balanced, versatile lager yeast that is suitable for a wide variety of lager styles including CAP.\n\nattenuation: 70-76% \nFlocculation: Medium\nTemperature range: 48-55F(9-13C)"
+    },
+    {
+      "yeast_type" : "Liquid",
+      "DateLastModified" : "\/\/Date:1372128898.228172",
+      "beer_type" : "Lager",
+      "attenuation" : "72.000000",
+      "UUID" : "3399C706-22D5-11DA-91CE-001124CAE2A6",
+      "name" : "White Labs WLP838-Southern German Lager",
+      "description" : "A malty lager yeast that ferments strongly producing slight sulfur.\n\nattenuation: 68-76% \nFlocculation: Medium to High\nTemperature range: 50-55F(10-13C)"
+    },
+    {
+      "yeast_type" : "Liquid",
+      "DateLastModified" : "\/\/Date:1372128898.352797",
+      "beer_type" : "Lager",
+      "attenuation" : "77.500000",
+      "UUID" : "3CF98D7D-22D5-11DA-91CE-001124CAE2A6",
+      "name" : "White Labs WLP840-American Lager",
+      "description" : "An American lager yeast that produces a characteristic slight apple fruitiness. Low sulfur and diacetyl.\n\nattenuation: 75-80% \nFlocculation: Medium\nTemperature range: 50-55F(10-13C)"
+    },
+    {
+      "yeast_type" : "Liquid",
+      "DateLastModified" : "\/\/Date:1372128898.311575",
+      "beer_type" : "Lager",
+      "attenuation" : "75.000000",
+      "UUID" : "E0A3459C-6972-11DA-914D-001124CAE2A6",
+      "name" : "White Labs WLP850-Copenhagen Lager",
+      "description" : "A clean, crisp European strain that is less malty than the southern European strains.\n\nattenuation: 72-78% \nFlocculation: Medium\nTemperature range: 50-58F(10-14C)"
+    },
+    {
+      "yeast_type" : "Liquid",
+      "DateLastModified" : "\/\/Date:1372128898.340660",
+      "beer_type" : "Lager",
+      "attenuation" : "70.000000",
+      "UUID" : "A9948A14-0F84-4318-9F7B-ECD2F0A55FBA",
+      "name" : "White Labs WLP860-Munich Helles",
+      "description" : "This yeast helps to produce a malty, but balanced traditional Munich-style lager. Clean and strong fermentor, it's great for a variety of lager styles ranging from Helles to Rauchbier.\n\nattenuation: 68-72%\nFlocculation: Medium\nOptimal Temp: 48-52F(9-11C)\n"
+    },
+    {
+      "yeast_type" : "Liquid",
+      "DateLastModified" : "\/\/Date:1372128898.090596",
+      "beer_type" : "Lager",
+      "attenuation" : "68.000000",
+      "UUID" : "90895DE9-F68B-459F-A54A-8A8E5EC6E9CB",
+      "name" : "White Labs WLP862-Cry Havoc",
+      "description" : "Can ferment at both ale and lager temperatures and was used by Charlie Papazian to brew the recipes on his books.\n\nFor Ales:\n\nattenuation: 76-70% \nFlocculation: Medium-Low\nTemperature range: 68-74F(20-23C)\n\nFor Lagers:\n\nattenuation: 76-70% \nFlocculation: Low\nTemperature range: 55-58F(12-14C)"
+    },
+    {
+      "yeast_type" : "Liquid",
+      "DateLastModified" : "\/\/Date:1372128898.255622",
+      "beer_type" : "Lager",
+      "attenuation" : "75.000000",
+      "UUID" : "466EB1E9-22D5-11DA-91CE-001124CAE2A6",
+      "name" : "White Labs WLP885-Zurich Lager",
+      "description" : "A Swiss lager strain capable of producing lager beer at over 11% ABV.\n\nattenuation: 70-80% \nFlocculation: Medium\nTemperature range: 50-55F(10-13C)"
+    },
+    {
+      "yeast_type" : "Liquid",
+      "DateLastModified" : "\/\/Date:1372128898.263440",
+      "beer_type" : "Lager",
+      "attenuation" : "69.500000",
+      "UUID" : "4CF7B2B2-22D5-11DA-91CE-001124CAE2A6",
+      "name" : "White Labs WLP920-Old Bavarian Lager",
+      "description" : "A malty, slightly estery yeast from southern Germany.\n\nattenuation: 66-73% \nFlocculation: Medium\nTemperature range: 50-55F(10-13C)"
+    },
+    {
+      "yeast_type" : "Liquid",
+      "DateLastModified" : "\/\/Date:1372128898.072707",
+      "beer_type" : "Lager",
+      "attenuation" : "74.000000",
+      "UUID" : "F770E019-22D5-11DA-91CE-001124CAE2A6",
+      "name" : "White Labs WLP940-Mexican Lager",
+      "description" : "A Mexican lager yeast that produces clean, crisp lager beers.\n\nattenuation: 70-78% \nFlocculation: Medium\nTemperature range: 50-55F(10-13C)"
+    },
+    {
+      "yeast_type" : "Liquid",
+      "DateLastModified" : "\/\/Date:1372128898.223908",
+      "beer_type" : "Ale",
+      "attenuation" : "75.000000",
+      "UUID" : "F791B54A-220A-11DA-91CE-001124CAE2A6",
+      "name" : "Wyeast 1007-German Ale",
+      "description" : "Clean, top cropping yeast, low ester formation. Lower temperature fermentation gives lager characteristics and a dry, crisp beer. Some fruitiness is apparent at high temperatures. Very poor flocculator.\n\nattenuation 73-77% \nFlocculation: low\nTemperature range: 55-68F(13-20C)"
+    },
+    {
+      "yeast_type" : "Liquid",
+      "DateLastModified" : "\/\/Date:1372128898.306680",
+      "beer_type" : "Ale",
+      "attenuation" : "76.000000",
+      "UUID" : "B26BDD5C-220B-11DA-91CE-001124CAE2A6",
+      "name" : "Wyeast 1010-American Wheat Ale",
+      "description" : "A top fermenting yeast producing a dry, slightly tart, crisp beer. Ideal for beers such as Alt, Kolsch and American Hefe Weizen\n\nattenuation 74-78% \nFlocculation: low\nTemperature range: 58-74F(14-23C)"
+    },
+    {
+      "yeast_type" : "Liquid",
+      "DateLastModified" : "\/\/Date:1372128898.368824",
+      "beer_type" : "Ale",
+      "attenuation" : "75.500000",
+      "UUID" : "E531A2B2-699E-11DA-914D-001124CAE2A6",
+      "name" : "Wyeast 1026-British Cask Ale",
+      "description" : "A great yeast choice for any cask conditioned British Ale and one that is especially well suited for IPA’s and Australian ales. Produces a nice malt profile and finishes crisp & slightly tart. Low to moderate fruit ester producer that clears well without filtration.\n\nAlc. Tolerance 9% ABV  \nFlocculation     medium\/high\nattenuation      74-77%          \nTemp. Range    63-72F (17-22C)"
+    },
+    {
+      "yeast_type" : "Liquid",
+      "DateLastModified" : "\/\/Date:1372128898.342393",
+      "beer_type" : "Ale",
+      "attenuation" : "75.000000",
+      "UUID" : "BB83DC9F-220B-11DA-91CE-001124CAE2A6",
+      "name" : "Wyeast 1028-London Ale",
+      "description" : "Ferments to give a rich flavor with a dry , crisp finish. Also displays some fruitiness.\n\nattenuation 73-77% \nFlocculation: medium\nTemperature range: 60-72F(15-22C)"
+    },
+    {
+      "yeast_type" : "Liquid",
+      "DateLastModified" : "\/\/Date:1372128898.143489",
+      "beer_type" : "Ale",
+      "attenuation" : "75.000000",
+      "UUID" : "C466830C-220B-11DA-91CE-001124CAE2A6",
+      "name" : "Wyeast 1056-American Ale",
+      "description" : "A crisp, clean yeast with low fruitiness and little ester production. Allows malt and hops flavors to dominate. Whilst flocculation is moderate, this may improve with the presence of dark malts in the grain bill.\n\nattenuation 73-77% \nFlocculation: low to medium\nTemperature range: 60-72F(15-22C)"
+    },
+    {
+      "yeast_type" : "Liquid",
+      "DateLastModified" : "\/\/Date:1372128898.170406",
+      "beer_type" : "Ale",
+      "attenuation" : "73.000000",
+      "UUID" : "CBE652CE-220B-11DA-91CE-001124CAE2A6",
+      "name" : "Wyeast 1084-Irish Ale",
+      "description" : "Best in dark beers, this yeast gives a dry, crisp flavor profile at lower temperatures and fruitier beers at the higher end (especially above 64F, 18C).\n\nattenuation 71-75% \nFlocculation: medium\nTemperature range: 62-72F(16-22C)"
+    },
+    {
+      "yeast_type" : "Liquid",
+      "DateLastModified" : "\/\/Date:1372128898.202173",
+      "beer_type" : "Ale",
+      "attenuation" : "73.000000",
+      "UUID" : "61A7351C-220C-11DA-91CE-001124CAE2A6",
+      "name" : "Wyeast 1087-Wyeast Ale Blend",
+      "description" : ""
+    },
+    {
+      "yeast_type" : "Liquid",
+      "DateLastModified" : "\/\/Date:1372128898.215620",
+      "beer_type" : "Ale",
+      "attenuation" : "74.000000",
+      "UUID" : "6869FCE0-220C-11DA-91CE-001124CAE2A6",
+      "name" : "Wyeast 1098-British Ale",
+      "description" : "Originally a dried yeast from Whitbread this yeast produces beers where the malt and hops dominate. Slightly tart, fruity and well-balanced.\n\nattenuation 73-75% \nFlocculation: medium\nTemperature range: 64-72F(18-22C)"
+    },
+    {
+      "yeast_type" : "Liquid",
+      "DateLastModified" : "\/\/Date:1372128898.199415",
+      "beer_type" : "Ale",
+      "attenuation" : "70.000000",
+      "UUID" : "6FAF217D-220C-11DA-91CE-001124CAE2A6",
+      "name" : "Wyeast 1099-Whitbread Ale",
+      "description" : "Not as tart and dry as 1098, this yeast is slightly fruity and much more flocculent.\n\nattenuation 68-72% \nFlocculation: high\nTemperature range: 64-75F(18-24C)"
+    },
+    {
+      "yeast_type" : "Liquid",
+      "DateLastModified" : "\/\/Date:1372128898.179845",
+      "beer_type" : "Ale",
+      "attenuation" : "70.000000",
+      "UUID" : "834D5476-220C-11DA-91CE-001124CAE2A6",
+      "name" : "Wyeast 1187-Ringwood Ale",
+      "description" : "A yeast with unique fermentation and flavor characteristics.  Highly flocculent with a malty complex profile, this yeast also clears well. A diacetyl rest is recommended.\n\nattenuation 68-72% \nFlocculation: high\nTemperature range: 64-72F(18-23C)"
+    },
+    {
+      "yeast_type" : "Liquid",
+      "DateLastModified" : "\/\/Date:1372128898.283945",
+      "beer_type" : "Ale",
+      "attenuation" : "74.000000",
+      "UUID" : "F1CB4E28-220C-11DA-91CE-001124CAE2A6",
+      "name" : "Wyeast 1214-Belgian Ale",
+      "description" : "An estery, complex yeast with very good alcohol tolerance.\n\nattenuation 72-76% \nFlocculation: medium\nTemperature range: 58-78F(14-24C)"
+    },
+    {
+      "yeast_type" : "Liquid",
+      "DateLastModified" : "\/\/Date:1372128898.070240",
+      "beer_type" : "Ale",
+      "attenuation" : "74.000000",
+      "UUID" : "F8CA94DD-220C-11DA-91CE-001124CAE2A6",
+      "name" : "Wyeast 1272-American Ale II",
+      "description" : "A much more fruity and flocculent yeast than 1056. At warmer temperatures the intense fruitiness accentuates hop character.\n\nattenuation 72-76% \nFlocculation: high\nTemperature range: 60-72F(15-22C)"
+    },
+    {
+      "yeast_type" : "Liquid",
+      "DateLastModified" : "\/\/Date:1372128898.285515",
+      "beer_type" : "Ale",
+      "attenuation" : "74.000000",
+      "UUID" : "00334202-220D-11DA-91CE-001124CAE2A6",
+      "name" : "Wyeast 1275-Thames Valley Ale",
+      "description" : "A classic yeast for British bitters. Gives a rich complex flavor profile which is clean with low esters.\n\nattenuation 72-76% \nFlocculation: medium\nTemperature range: 62-72F(16-22C)"
+    },
+    {
+      "yeast_type" : "Liquid",
+      "DateLastModified" : "\/\/Date:1372128898.347535",
+      "beer_type" : "Ale",
+      "attenuation" : "73.000000",
+      "UUID" : "0938B940-220D-11DA-91CE-001124CAE2A6",
+      "name" : "Wyeast 1318-London Ale III",
+      "description" : "A fruity, soft yeast that finishes slightly sweet.\n\nattenuation 71-75% \nFlocculation: high\nTemperature range: 64-74F(18-23C)"
+    },
+    {
+      "yeast_type" : "Liquid",
+      "DateLastModified" : "\/\/Date:1372128898.181122",
+      "beer_type" : "Ale",
+      "attenuation" : "69.000000",
+      "UUID" : "1BF76130-220D-11DA-91CE-001124CAE2A6",
+      "name" : "Wyeast 1332-Northwest Ale",
+      "description" : "From the northwest of the USA, this yeast produces a slightly fruity, malty ale of character.\n\nattenuation 67-71% \nFlocculation: high\nTemperature range: 65-71F(18-24C)"
+    },
+    {
+      "yeast_type" : "Liquid",
+      "DateLastModified" : "\/\/Date:1372128898.101379",
+      "beer_type" : "Ale",
+      "attenuation" : "74.500000",
+      "UUID" : "221B617E-220D-11DA-91CE-001124CAE2A6",
+      "name" : "Wyeast 1335-British Ale II",
+      "description" : "A flocculent yeast that gives a clean, crisp, quite dry finish.\n\nattenuation 73-76% \nFlocculation: high\nTemperature range: 63-75F(17-24C)"
+    },
+    {
+      "yeast_type" : "Liquid",
+      "DateLastModified" : "\/\/Date:1372128898.321867",
+      "beer_type" : "Ale",
+      "attenuation" : "69.000000",
+      "UUID" : "2A16526C-220D-11DA-91CE-001124CAE2A6",
+      "name" : "Wyeast 1338-European Ale",
+      "description" : "A full bodied, malty yeast that gives a complex flavor profile. Produces a dense, rocky head during fermentation.\n\nattenuation 67-71% \nFlocculation: high\nTemperature range: 62-72F(16-22C)"
+    },
+    {
+      "yeast_type" : "Liquid",
+      "DateLastModified" : "\/\/Date:1372128898.214215",
+      "beer_type" : "Ale",
+      "attenuation" : "75.000000",
+      "UUID" : "330D0991-220D-11DA-91CE-001124CAE2A6",
+      "name" : "Wyeast 1388-Belgian Strong Ale",
+      "description" : "A fruity yeast that finishes dry and tart. Has moderate to high alcohol tolerance.\n\nattenuation 73-75% \nFlocculation: low\nTemperature range: 65-75F(18-24C)"
+    },
+    {
+      "yeast_type" : "Liquid",
+      "DateLastModified" : "\/\/Date:1372128898.276159",
+      "beer_type" : "Ale",
+      "attenuation" : "75.000000",
+      "UUID" : "75D5B9C7-FB65-487E-A24D-7CEA22F92E55",
+      "name" : "Wyeast 1450-Denny's Favorite 50",
+      "description" : "This terrific all-round yeast can be used for almost any style beer and is a mainstay of one of our local homebrewers, Mr. Denny Conn. It is unique in that it produces a big mouthfeel and helps accentuate the malt, caramel, or fruit character of a beer without being sweet or under-attenuating.\n\nAlc. Tolerance             10% ABV\nFlocculation                low\nattenuation                 74-76%      \nTemperature Range     60-70F (15-21C)"
+    },
+    {
+      "yeast_type" : "Liquid",
+      "DateLastModified" : "\/\/Date:1372128898.194020",
+      "beer_type" : "Ale",
+      "attenuation" : "69.000000",
+      "UUID" : "6306988A-B210-483E-99B1-09739A3E0870",
+      "name" : "Wyeast 1469-West Yorkshire Ale",
+      "description" : "This strain produces ales with a full chewy malt flavor and character, but finishes dry, producing famously balanced beers. Expect moderate nutty and stone-fruit esters. Best used for the production of cask-conditioned bitters, ESB and mild ales. Reliably flocculent, producing bright beer without filtration.\n\nattenuation: 67-71%    \nAlc. Tolerance: 9%\nFlocculation: High    \nTemperature Range: 64-72F (18-22C)"
+    },
+    {
+      "yeast_type" : "Liquid",
+      "DateLastModified" : "\/\/Date:1372128898.277748",
+      "beer_type" : "Ale",
+      "attenuation" : "71.000000",
+      "UUID" : "3DEB2010-220D-11DA-91CE-001124CAE2A6",
+      "name" : "Wyeast 1728-Scottish Ale",
+      "description" : "Excellent for Scottish ales, this yeast is also suitable for other high gravity ales. Can get estery at high end of temperature range.\n\nattenuation 69-73% \nFlocculation: high\nTemperature range: 55-75F(13-24C)\n"
+    },
+    {
+      "yeast_type" : "Liquid",
+      "DateLastModified" : "\/\/Date:1372128898.191410",
+      "beer_type" : "Ale",
+      "attenuation" : "75.000000",
+      "UUID" : "458A65A7-220D-11DA-91CE-001124CAE2A6",
+      "name" : "Wyeast 1762-Belgian Abbey II",
+      "description" : "A slightly fruity, high gravity yeast with a low ester profile.\n\nattenuation 73-77% \nFlocculation: medium\nTemperature range: 65-75F(18-24C)\n"
+    },
+    {
+      "yeast_type" : "Liquid",
+      "DateLastModified" : "\/\/Date:1372128898.144871",
+      "beer_type" : "Ale",
+      "attenuation" : "76.000000",
+      "UUID" : "C64C12C6-937A-41CF-946F-D0081A48C49D",
+      "name" : "Wyeast 1764-Rogue Pacman",
+      "description" : "American Pale Ale, American Amber Ale, American Brown Ale, Brown Porter, Cream Ale, Irish Red Ale, Strong Scotch Ale, Dry Stout, American Stout, Russian Imperial Stout, American IPA, Imperial IPA, American Barleywine, Fruit Beer, Spice\/Herb\/or Vegetable Beer, Christmas\/Winter Specialty Spice Beer, Other Smoked Beer, Wood-Aged Beer\nProfile: A versatile yeast strain from one of Oregon’s leading craft breweries. Pacman is alcohol tolerant, flocculent, attenuates well and will produce beers with little to no diacetyl. Very mild fruit complements a dry, mineral finish making this a fairly neutral strain. Pacman’s flavor profile and performance makes it a great choice for use in many different beer styles.\n\nAlc. Tolerance 12% ABV  \nFlocculation     med-high\nattenuation       72-78%          \nTemp. Range   60-72F (15-22C)"
+    },
+    {
+      "yeast_type" : "Liquid",
+      "DateLastModified" : "\/\/Date:1372128898.132802",
+      "beer_type" : "Ale",
+      "attenuation" : "70.000000",
+      "UUID" : "66224565-699F-11DA-914D-001124CAE2A6",
+      "name" : "Wyeast 1768-English Special Bitter",
+      "description" : "A great yeast for malt predominate ales. Produces light fruit and ethanol aromas along with soft, nutty flavors. Exhibits a mild malt profile with a neutral finish. Bright beers are easily achieved without any filtration. It is similar to our 1968 London ESB Ale but slightly less flocculent.\n\nattenuation: 68-72%    \nAlc. Tolerance: 9%\nFlocculation: high    \nTemperature Range: 64-72F (18-22C)"
+    },
+    {
+      "yeast_type" : "Liquid",
+      "DateLastModified" : "\/\/Date:1372128898.153183",
+      "beer_type" : "Ale",
+      "attenuation" : "75.000000",
+      "UUID" : "12CCDA51-699F-11DA-914D-001124CAE2A6",
+      "name" : "Wyeast 1882-Thames Valley Ale II",
+      "description" : "This strain was originally sourced from a now defunct brewery on the banks of the river Thames outside of Oxford, England. Thames Valley II produces crisp, dry beers with a rich malt profile and moderate stone fruit esters. This attenuative strain is also highly flocculent resulting in bright beers not requiring filtration. A thorough diacetyl rest is recommended after fermentation is complete.\n\nAlc. Tolerance 10% ABV  \nFlocculation     High\nattenuation      72-78%          \nTemp. Range    60-70F (15-21C)"
+    },
+    {
+      "yeast_type" : "Liquid",
+      "DateLastModified" : "\/\/Date:1372128898.292066",
+      "beer_type" : "Ale",
+      "attenuation" : "69.000000",
+      "UUID" : "8499B2DE-2211-11DA-91CE-001124CAE2A6",
+      "name" : "Wyeast 1968-London ESB Ale",
+      "description" : "A very flocculant yeast that is great for cask ales. Somewhat less attenuative than most other ale strains. Tends to give fruity ales - especially as the temperature increases.\n\nattenuation 67-71%\nFlocculation: high\nTemperature range: 64-72F(18-22C)\n"
+    },
+    {
+      "yeast_type" : "Liquid",
+      "DateLastModified" : "\/\/Date:1372128898.092949",
+      "beer_type" : "Lager",
+      "attenuation" : "69.000000",
+      "UUID" : "1868B77F-3AE8-4245-993F-F52BCDB16412",
+      "name" : "Wyeast 2000-Budvar Lager",
+      "description" : ""
+    },
+    {
+      "yeast_type" : "Liquid",
+      "DateLastModified" : "\/\/Date:1372128898.158595",
+      "beer_type" : "Lager",
+      "attenuation" : "69.000000",
+      "UUID" : "566F33B0-CC49-47FD-AAC1-847BF5EF5FBD",
+      "name" : "Wyeast 2001-Urquell Lager",
+      "description" : ""
+    },
+    {
+      "yeast_type" : "Liquid",
+      "DateLastModified" : "\/\/Date:1372128898.333844",
+      "beer_type" : "Lager",
+      "attenuation" : "73.000000",
+      "UUID" : "D415A495-3A51-448E-9B7C-F144B80D9595",
+      "name" : "Wyeast 2002-Gambrinus Lager",
+      "description" : ""
+    },
+    {
+      "yeast_type" : "Liquid",
+      "DateLastModified" : "\/\/Date:1372128898.135397",
+      "beer_type" : "Lager",
+      "attenuation" : "73.000000",
+      "UUID" : "8C3C3FBF-2211-11DA-91CE-001124CAE2A6",
+      "name" : "Wyeast 2007-Pilsen Lager",
+      "description" : "A smooth, malty, American pilsner strain from a very well known brewery.\n\nattenuation 71-75%\nFlocculation: medium\nTemperature range: 48-56F(9-13C)\n"
+    },
+    {
+      "yeast_type" : "Liquid",
+      "DateLastModified" : "\/\/Date:1372128898.107466",
+      "beer_type" : "Lager",
+      "attenuation" : "75.000000",
+      "UUID" : "9480CC3E-2211-11DA-91CE-001124CAE2A6",
+      "name" : "Wyeast 2035-American Lager",
+      "description" : "A flavorsome, complex, aromatic yeast suitable for a wide variety of lager beers.\n\nattenuation 73-77%\nFlocculation: medium\nTemperature range: 48-58F(9-14C)\n"
+    },
+    {
+      "yeast_type" : "Liquid",
+      "DateLastModified" : "\/\/Date:1372128898.137966",
+      "beer_type" : "Lager",
+      "attenuation" : "75.000000",
+      "UUID" : "B349D5A0-2211-11DA-91CE-001124CAE2A6",
+      "name" : "Wyeast 2042-Danish Lager",
+      "description" : "A Dortmunder-style yeast that finishes crisp and dry. Emphasises hop characteristics.\n\nattenuation 73-77%\nFlocculation: low\nTemperature range: 46-56F(8-13C)\n"
+    },
+    {
+      "yeast_type" : "Liquid",
+      "DateLastModified" : "\/\/Date:1372128898.349266",
+      "beer_type" : "Lager",
+      "attenuation" : "72.000000",
+      "UUID" : "63DBA76A-51FC-48BB-A274-E9F7A805A47D",
+      "name" : "Wyeast 2105-Rocky Mountain Lager",
+      "description" : "Mild, malty profile with medium esters. Well balanced.\n\nattenuation 70-74%\nFlocculation: medium-high\nTemperature range: 48-56F(9-13C)"
+    },
+    {
+      "yeast_type" : "Liquid",
+      "DateLastModified" : "\/\/Date:1372128898.156768",
+      "beer_type" : "Lager",
+      "attenuation" : "69.000000",
+      "UUID" : "B9B3CA72-2211-11DA-91CE-001124CAE2A6",
+      "name" : "Wyeast 2112-California Lager",
+      "description" : "A unusual strain that retains lager characteristics at higher than usual temperatures.\n\nattenuation 67-71%\nFlocculation: high\nTemperature range: 58-68F(14-20C)\n"
+    },
+    {
+      "yeast_type" : "Liquid",
+      "DateLastModified" : "\/\/Date:1372128898.303448",
+      "beer_type" : "Lager",
+      "attenuation" : "71.000000",
+      "UUID" : "C08E29FC-2211-11DA-91CE-001124CAE2A6",
+      "name" : "Wyeast 2124-Bohemian Lager",
+      "description" : "The most widely used lager strain in the world. Produces a malty beer with some ester character and a crisp finish. A diacetyl rest can be of benefit.\n\nattenuation 69-73%\nFlocculation: medium\nTemperature range: 48-58F(9-14C)\n"
+    },
+    {
+      "yeast_type" : "Liquid",
+      "DateLastModified" : "\/\/Date:1372128898.225358",
+      "beer_type" : "Lager",
+      "attenuation" : "73.000000",
+      "UUID" : "C7A3E4E6-2211-11DA-91CE-001124CAE2A6",
+      "name" : "Wyeast 2178-Wyeast Lager Blend",
+      "description" : ""
+    },
+    {
+      "yeast_type" : "Liquid",
+      "DateLastModified" : "\/\/Date:1372128898.098984",
+      "beer_type" : "Lager",
+      "attenuation" : "75.000000",
+      "UUID" : "D04D5975-2211-11DA-91CE-001124CAE2A6",
+      "name" : "Wyeast 2206-Bavarian Lager",
+      "description" : "Produces full-bodied, malty beers. Especially good for bocks and doublebocks.\n\nattenuation 73-77%\nFlocculation: medium\nTemperature range: 46-58F(8-14C)\n"
+    },
+    {
+      "yeast_type" : "Liquid",
+      "DateLastModified" : "\/\/Date:1372128898.207439",
+      "beer_type" : "Lager",
+      "attenuation" : "75.000000",
+      "UUID" : "D7B29936-2211-11DA-91CE-001124CAE2A6",
+      "name" : "Wyeast 2247-European Lager II",
+      "description" : "German Pilsner, Bohemian Pilsner, Classic American Pilsner, Munich Helles, Dortmunder Export \nProfile: This strain exhibits a very clean and dry flavor profile often found in aggressively hopped lagers. Produces mild aromatics and slight sulfur notes typical of classic pilsners. This yeast is a good attenuator resulting in beers with a\ndistinctively crisp finish.\nAlc. Tolerance 10% ABV  \nFlocculation     low\nattenuation       73-77%          \nTemp. Range   46-56F (8-13C)"
+    },
+    {
+      "yeast_type" : "Liquid",
+      "DateLastModified" : "\/\/Date:1372128898.174710",
+      "beer_type" : "Lager",
+      "attenuation" : "75.000000",
+      "UUID" : "269F2C80-3326-4654-874A-B1DC0C225C42",
+      "name" : "Wyeast 2252-Rasenmaher Lager",
+      "description" : "This versatile lager strain is an excellent choice for brewing your favorite low alcohol lawnmower beer. Fermentations at low temperatures will produce clean lagers that accentuate the malt character of the beer. At high temperatures this strain maintains much of the lager character, but will also yield a mild ester profile that compliments hop aromas and flavors.\n\nAlc. Tolerance 9% ABV  \nFlocculation     low\nattenuation      73-77%          \nTemp. Range    48-68F (9-20C)"
+    },
+    {
+      "yeast_type" : "Liquid",
+      "DateLastModified" : "\/\/Date:1372128898.178609",
+      "beer_type" : "Lager",
+      "attenuation" : "73.000000",
+      "UUID" : "E1B91428-2211-11DA-91CE-001124CAE2A6",
+      "name" : "Wyeast 2272-North American Lager",
+      "description" : "Classic American Pilsner, Premium American Lager, Standard American Lager, Lite American Lager, Dark American Lager \nProfile: Traditional culture of North American and Canadian lagers, light pilsners and adjunct beers. Mildly malty profile, medium ester profile, well balanced. Malty finish.\n\nAlc. Tolerance 9% ABV  \nFlocculation     high\nattenuation      70-76%              \nTemp. Range   52-58F (11-14C)"
+    },
+    {
+      "yeast_type" : "Liquid",
+      "DateLastModified" : "\/\/Date:1372128898.162956",
+      "beer_type" : "Lager",
+      "attenuation" : "75.000000",
+      "UUID" : "E8E3C319-2211-11DA-91CE-001124CAE2A6",
+      "name" : "Wyeast 2278-Czech Pilsner Lager",
+      "description" : "A classic pilsner strain that produces dry, malty beers. Any sulfur produced during fermentation dissipates during lagering.\n\nattenuation 70-74%\nFlocculation: medium to high\nTemperature range: 50-58F(10-14C)\n"
+    },
+    {
+      "yeast_type" : "Liquid",
+      "DateLastModified" : "\/\/Date:1372128898.082720",
+      "beer_type" : "Lager",
+      "attenuation" : "75.000000",
+      "UUID" : "EF5270A3-2211-11DA-91CE-001124CAE2A6",
+      "name" : "Wyeast 2308-Munich Lager",
+      "description" : "Produces smooth, well-bodied beers that benefit from a diacetyl rest.\n\nattenuation 73-77%\nFlocculation: medium\nTemperature range: 48-56F(9-13C)\n"
+    },
+    {
+      "yeast_type" : "Liquid",
+      "DateLastModified" : "\/\/Date:1372128898.242431",
+      "beer_type" : "Lager",
+      "attenuation" : "73.000000",
+      "UUID" : "EC3CC002-4536-4B58-AADE-A7D5631B9BD8",
+      "name" : "Wyeast 2352-Munich Lager II",
+      "description" : "From a famous brewery in Munich, this strain is a low diacetyl and low sulfur aroma producer. An excellent choice for malt driven lagers.\n\nFlocculation      Medium\nattenuation      72-74%          \nTemp. Range    52-62F (11-16C)"
+    },
+    {
+      "yeast_type" : "Liquid",
+      "DateLastModified" : "\/\/Date:1372128898.077124",
+      "beer_type" : "Lager",
+      "attenuation" : "72.000000",
+      "UUID" : "2862774D-FFC1-41EF-AC9C-773CD4FF5A1A",
+      "name" : "Wyeast 2487-Hella-Bock",
+      "description" : "Direct from the Austrian Alps, this strain will produce rich, full-bodied and malty beers with a complex flavor profile and a great mouth feel. Attenuates well while still leaving plenty of malt character and body. Beers fermented with this strain will benefit from a temperature rise for a diacetyl rest at the end of primary fermentation.\n\nattenuation 70-74%\nFlocculation: medium\nTemperature range: 48-56F(9-13C)"
+    },
+    {
+      "yeast_type" : "Liquid",
+      "DateLastModified" : "\/\/Date:1372128898.366990",
+      "beer_type" : "Ale",
+      "attenuation" : "75.000000",
+      "UUID" : "F88967E0-2211-11DA-91CE-001124CAE2A6",
+      "name" : "Wyeast 2565-Kolsch",
+      "description" : "An top fermenting yeast that is especially suitable for alt and kolsch style beers. Ferments well at low temperatures with fruitiness increasing with temperature. Can be slow to settle. \n\nattenuation 73-77%\nFlocculation: low\nTemperature range: 56-70F(13-21C)\n"
+    },
+    {
+      "yeast_type" : "Liquid",
+      "DateLastModified" : "\/\/Date:1372128898.195373",
+      "beer_type" : "Ale",
+      "attenuation" : "75.000000",
+      "UUID" : "205D1260-A3E7-4EE5-BD71-4A1ED85AE3D0",
+      "name" : "Wyeast 2575-Kolsch II",
+      "description" : "Kolsch, Northern German Altbier, Düsseldorf Altbier\nProfile: This authentic Kolsch strain from one of Germany’s leading brewing schools has a rich flavor profile which accentuates a soft malt finish. It has Low or no detectable diacetyl production and will also ferment well at colder temperatures for fast lager type beers.\n\nAlc. Tolerance 10% ABV  \nFlocculation     low\nattenuation      73-77%              \nTemp. Range   55-70F (13-21C)"
+    },
+    {
+      "yeast_type" : "Liquid",
+      "DateLastModified" : "\/\/Date:1372128898.287272",
+      "beer_type" : "Lager",
+      "attenuation" : "75.000000",
+      "UUID" : "37AF2CB4-699F-11DA-914D-001124CAE2A6",
+      "name" : "Wyeast 2633-Octoberfest Lager Blend",
+      "description" : "A blend that produces malty, rich, full-bodied oktoberfest style beers. Low sulfur producer.\n\nattenuation 73-77%\nFlocculation: medium-low\nTemperature range: 48-58F(9-14C)\n"
+    },
+    {
+      "yeast_type" : "Liquid",
+      "DateLastModified" : "\/\/Date:1372128898.173242",
+      "beer_type" : "Lager",
+      "attenuation" : "72.000000",
+      "UUID" : "4832470B-FA10-42C2-965A-2EC9F854374F",
+      "name" : "Wyeast 2782-Staro Prague Lager",
+      "description" : "This yeast will help create medium to full body lagers with moderate fruit and bready malt flavors. The balance is slightly toward malt sweetness and will benefit from additional hop bittering. A fantastic strain for producing classic Bohemian lagers. \n\nAlc. Tolerance 11% ABV  \nFlocculation     medium\nattenuation       70-74%              \nTemp. Range   50-58F (10-14C)"
+    },
+    {
+      "yeast_type" : "Liquid",
+      "DateLastModified" : "\/\/Date:1372128898.282397",
+      "beer_type" : "Ale",
+      "attenuation" : "75.000000",
+      "UUID" : "008D5C9C-2212-11DA-91CE-001124CAE2A6",
+      "name" : "Wyeast 3056-Bavarian Wheat",
+      "description" : "A blend of ale and wheat strains that produces wheat beers that less full-on that those produced by 3068.\n\nattenuation 73-77%\nFlocculation: medium\nTemperature range: 64-74F(18-23C)\n"
+    },
+    {
+      "yeast_type" : "Liquid",
+      "DateLastModified" : "\/\/Date:1372128898.167355",
+      "beer_type" : "Ale",
+      "attenuation" : "75.000000",
+      "UUID" : "0767269C-2212-11DA-91CE-001124CAE2A6",
+      "name" : "Wyeast 3068-Weihenstephen Weizen",
+      "description" : "A classic German wheat beer strain that produces a dry, tart beer with banana esters, phenols and clove. Can produce a massive head during fermentation.\n\nattenuation 73-77%\nFlocculation: low\nTemperature range: 64-75F(18-24C)\n"
+    },
+    {
+      "yeast_type" : "Liquid",
+      "DateLastModified" : "\/\/Date:1372128898.363481",
+      "beer_type" : "Ale",
+      "attenuation" : "67.000000",
+      "UUID" : "0DE9430F-2212-11DA-91CE-001124CAE2A6",
+      "name" : "Wyeast 3112-Brettanomyces Bruxellensis",
+      "description" : ""
+    },
+    {
+      "yeast_type" : "Liquid",
+      "DateLastModified" : "\/\/Date:1372128898.083826",
+      "beer_type" : "Ale",
+      "attenuation" : "76.000000",
+      "UUID" : "728354BE-AC20-4446-A567-0A84AF0EC4E4",
+      "name" : "Wyeast 3191-Berliner Weisse Blend",
+      "description" : "This blend includes a German ale strain with low ester formation and a dry, crisp finish. The Lactobacillus included produces moderate levels of acidity. The unique Brettanomyces strain imparts a critical earthy characteristic that is indicative of a true Berliner Weisse. When this blend is used, expect a slow start to fermentation as the yeast and bacteria in the blend is balanced to allow proper acid production. It generally requires 3-6 months of aging to fully develop flavor characteristics. Use this blend with worts containing extremely low hopping rates.\n\nattenuation 75-77%\nFlocculation: low\nTemperature range: 55-68F(13-20C)"
+    },
+    {
+      "yeast_type" : "Liquid",
+      "DateLastModified" : "\/\/Date:1372128898.088302",
+      "beer_type" : "Ale",
+      "attenuation" : "70.000000",
+      "UUID" : "14FDAE84-2212-11DA-91CE-001124CAE2A6",
+      "name" : "Wyeast 3278-Belgian Lambic Blend",
+      "description" : ""
+    },
+    {
+      "yeast_type" : "Liquid",
+      "DateLastModified" : "\/\/Date:1372128898.344112",
+      "beer_type" : "Ale",
+      "attenuation" : "73.000000",
+      "UUID" : "1D45749F-2212-11DA-91CE-001124CAE2A6",
+      "name" : "Wyeast 3333-German Wheat",
+      "description" : "Produces a beer with a tart crispness and sherry notes.\n\nattenuation 70-76%\nFlocculation: high\nTemperature range: 63-75F(17-24C)\n"
+    },
+    {
+      "yeast_type" : "Liquid",
+      "DateLastModified" : "\/\/Date:1372128898.183725",
+      "beer_type" : "Ale",
+      "attenuation" : "75.000000",
+      "UUID" : "25BEE9D8-2212-11DA-91CE-001124CAE2A6",
+      "name" : "Wyeast 3463-Forbidden Fruit",
+      "description" : "A Belgian witbeer yeast that produces somewhat phenolic beers with a balanced estery profile.\n\nattenuation 73-77%\nFlocculation: low\nTemperature range: 63-76F(17-24C)\n"
+    },
+    {
+      "yeast_type" : "Liquid",
+      "DateLastModified" : "\/\/Date:1372128898.114524",
+      "beer_type" : "Ale",
+      "attenuation" : "74.000000",
+      "UUID" : "2C95628B-2212-11DA-91CE-001124CAE2A6",
+      "name" : "Wyeast 3522-Belgian Ardennes",
+      "description" : "A great Belgian ale yeast. Phenolics increase with temperature. Beers have a  fruity, spicy character.\n\nattenuation 72-76%\nFlocculation: high\nTemperature range: 65-85F(18-29C)\n"
+    },
+    {
+      "yeast_type" : "Liquid",
+      "DateLastModified" : "\/\/Date:1372128898.252687",
+      "beer_type" : "Ale",
+      "attenuation" : "76.500000",
+      "UUID" : "FA7505E4-699E-11DA-914D-001124CAE2A6",
+      "name" : "Wyeast 3538-Leuven Pale Ale",
+      "description" : "Belgian Pale Ale, Belgian Dubbel and Tripel, Belgian Strong Golden and Dark Ales, Belgian Blonde Ale, Flanders Brown Ale\nProfile: This vigorous top fermenting Belgian style strain produces a distinct spicy character along with mild esters. Phenolics developed during fermentation may dissipate with conditioning. 3538 is an excellent choice for a variety of Belgian beer styles including pales, dubbels, and brown ales.\n\nAlc. Tolerance 12% ABV  \nFlocculation     high\nattenuation       75-78%          \nTemp. Range   65-80F (18-27C)"
+    },
+    {
+      "yeast_type" : "Liquid",
+      "DateLastModified" : "\/\/Date:1372128898.124829",
+      "beer_type" : "Ale",
+      "attenuation" : "73.000000",
+      "UUID" : "8957C9DD-2214-11DA-91CE-001124CAE2A6",
+      "name" : "Wyeast 3638-Bavarian Wheat",
+      "description" : "A complex hefeweizen yeast producing banana and bubble gum esters and a hint of clove.\n\nattenuation 70-76%\nFlocculation: low\nTemperature range: 64-75F(18-24C)\n"
+    },
+    {
+      "yeast_type" : "Liquid",
+      "DateLastModified" : "\/\/Date:1372128898.251241",
+      "beer_type" : "Ale",
+      "attenuation" : "75.000000",
+      "UUID" : "4A248631-9D38-4506-91B3-AE007E680702",
+      "name" : "Wyeast 3655-Belgian Schelde Ale",
+      "description" : "Belgian Pale Ale, Belgian Specialty Ale, Belgian Dubbel and Tripel, Belgian Strong Golden and Dark Ales, Belgian Blonde Ale, Flanders Brown\/Oud Bruin\nProfile: From the East Flanders - Antwerpen region of Belgium, this unique top fermenting yeast produces complex, classic Belgian aromas and flavors that meld well with premium quality pale and crystal malts. Well rounded and smooth textures are exhibited with a full bodied malty profile and mouthfeel.\n\nAlc. Tolerance 11% ABV  \nFlocculation     medium\nattenuation       73-77%              \nTemp. Range   62-74F (16-24C)"
+    },
+    {
+      "yeast_type" : "Liquid",
+      "DateLastModified" : "\/\/Date:1372128898.127511",
+      "beer_type" : "Ale",
+      "attenuation" : "80.000000",
+      "UUID" : "4B2C66DD-F1C8-4409-9D0B-05987D7187AC",
+      "name" : "Wyeast 3711-French Saison",
+      "description" : "Produces saison or farmhouse style biers that are highly aromatic with clean, citrus-esters. Expect peppery and spicy notes with no earthiness and low phenols. This strain enhances the use of spices and aroma hops, and is extremely attenuative but leaves an unexpected silky and rich mouthfeel in a very dry finished beer. \n\nattenuation 77-80%\nFlocculation: low\nTemperature range: 65-77F(18-25C)"
+    },
+    {
+      "yeast_type" : "Liquid",
+      "DateLastModified" : "\/\/Date:1372128898.131494",
+      "beer_type" : "Ale",
+      "attenuation" : "78.000000",
+      "UUID" : "4E2E8B85-699F-11DA-914D-001124CAE2A6",
+      "name" : "Wyeast 3724-Belgian Saison",
+      "description" : "A classic saison yeast that produceds a tart, dry beer with a spicy flavor. Benefits from higher temperatures and can stall early.\n\nattenuation 76-80%\nFlocculation: low\nTemperature range: 70-85F(21-29C)\n"
+    },
+    {
+      "yeast_type" : "Liquid",
+      "DateLastModified" : "\/\/Date:1372128898.130125",
+      "beer_type" : "Ale",
+      "attenuation" : "75.000000",
+      "UUID" : "28278DB1-0669-4F18-B580-24FA8C0C4398",
+      "name" : "Wyeast 3725-Bier de Garde",
+      "description" : "Saison, Biere de Garde, Belgian Blonde Ale, Belgian Pale Ale, Belgian Golden Strong Ale \nProfile: Low to moderate ester production with subtle spiciness. Malty and full on the palate with initial sweetness. Finishes dry and slightly tart. Ferments well with no sluggishness.\n\nAlc. Tolerance 12% ABV  \nFlocculation     low\nattenuation      74-79%              \nTemp. Range   70-84F (21-29C)"
+    },
+    {
+      "yeast_type" : "Liquid",
+      "DateLastModified" : "\/\/Date:1372128898.258742",
+      "beer_type" : "Ale",
+      "attenuation" : "76.500000",
+      "UUID" : "1A2C663F-1465-4D28-B120-BBF22FBC820E",
+      "name" : "Wyeast 3726-Farmhouse Ale",
+      "description" : "This strain produces complex esters balanced with earthy\/spicy notes. Slightly tart and dry with a peppery finish. A perfect strain for farmhouse ales and saisons.\n\nattenuation: 74-79%        \nAlc. Tolerance: 12%\nFlocculation: variable\nTemperature Range: 70-95F (21-35C)"
+    },
+    {
+      "yeast_type" : "Liquid",
+      "DateLastModified" : "\/\/Date:1372128898.240945",
+      "beer_type" : "Ale",
+      "attenuation" : "76.000000",
+      "UUID" : "782E13C8-C5F9-4E40-8E21-05073004CF71",
+      "name" : "Wyeast 3739-Flanders Golden Ale",
+      "description" : "Belgian Pale Ale, Belgian Specialty Ale, Belgian Dubbel, Triple and Quad, Belgian Strong Golden and Dark Ales, Belgian Blonde Ale.n \nProfile: This well balanced strain from northern Belgium will produce moderate levels of both fruity esters and spicy phenols while finishing dry with a hint of malt. 3739-PC is a robust & versatile strain that performs nicely in a broad range of Belgian styles.\n\nAlc. Tolerance 12% ABV  \nFlocculation     medium - low\nattenuation      74-78%              \nTemp. Range   64-80F (18-27C)"
+    },
+    {
+      "yeast_type" : "Liquid",
+      "DateLastModified" : "\/\/Date:1372128898.200716",
+      "beer_type" : "Ale",
+      "attenuation" : "80.000000",
+      "UUID" : "913AFD88-2214-11DA-91CE-001124CAE2A6",
+      "name" : "Wyeast 3763-Roselare Belgian Blend",
+      "description" : "Lambics, Geuze, Fruit Lambic, Flanders Red Ale \nProfile: Our blend of lambic cultures produces beer with a complex, earthy profile and a distinctive pie cherry sourness. Aging for up to 18 months is required for full flavor profile and acidity to develop. Will produce a very dry profile due to super-attenuative nature of the mixed cultures.\n\nAlc. Tolerance: 11% ABV \nFlocculation: variable\nattenuation: 80%+       \nTemperature Range: 65-85F (18-30C)"
+    },
+    {
+      "yeast_type" : "Liquid",
+      "DateLastModified" : "\/\/Date:1372128898.089432",
+      "beer_type" : "Ale",
+      "attenuation" : "77.500000",
+      "UUID" : "B0FFDB5D-2214-11DA-91CE-001124CAE2A6",
+      "name" : "Wyeast 3787-Trappist High Gravity",
+      "description" : "An estery, phenolic yeast although phenols tend to dissipate with ageing. Doesn't produce banana flavors unlike many Belgian yeasts.\n\nattenuation 75-80%\nFlocculation: medium\nTemperature range: 64-78F(18-25C)"
+    },
+    {
+      "yeast_type" : "Liquid",
+      "DateLastModified" : "\/\/Date:1372128898.117001",
+      "beer_type" : "Ale",
+      "attenuation" : "77.500000",
+      "UUID" : "BE0156DF-2260-4F84-B205-C1FEC05C9989",
+      "name" : "Wyeast 3789-Trappist Blend",
+      "description" : "Belgian Specialty Ale, Belgian Pale Ale, Flanders Red, Oud Bruin \nProfile: A unique blend of Belgian Saccharomyces and \nBrettanomyces for emulating Trappist style beer from the Florenville region in Belgium. Phenolics, mild fruitiness and complex spicy notes develop with increased fermentation temperatures. Subdued but classic Brett character.\n\nAlc. Tolerance 12% ABV  \nFlocculation     medium\nattenuation      75-80%              \nTemp. Range   68-85F (20-30C)"
+    },
+    {
+      "yeast_type" : "Liquid",
+      "DateLastModified" : "\/\/Date:1372128898.335545",
+      "beer_type" : "Ale",
+      "attenuation" : "76.500000",
+      "UUID" : "7F9C23D6-699F-11DA-914D-001124CAE2A6",
+      "name" : "Wyeast 3822-Dutch Castle",
+      "description" : ""
+    },
+    {
+      "yeast_type" : "Liquid",
+      "DateLastModified" : "\/\/Date:1372128898.326978",
+      "beer_type" : "Ale",
+      "attenuation" : "77.000000",
+      "UUID" : "2612D6C0-699F-11DA-914D-001124CAE2A6",
+      "name" : "Wyeast 3864-Canadian\/Belgian Style",
+      "description" : "This alcohol tolerant strain produces complex and well-balanced Belgian Abbey style ales. Banana and fruit esters are complemented nicely with mild levels of phenolics and hints of acidity. Ester levels may be elevated by increasing gravity and fermentation temperatures.\n\nAlc. Tolerance 12% ABV  \nFlocculation     medium\nattenuation      75-79%              \nTemp. Range   65-80F (18-27C)"
+    },
+    {
+      "yeast_type" : "Liquid",
+      "DateLastModified" : "\/\/Date:1372128898.370628",
+      "beer_type" : "Ale",
+      "attenuation" : "75.000000",
+      "UUID" : "B7FCA746-2214-11DA-91CE-001124CAE2A6",
+      "name" : "Wyeast 3942-Belgian Wheat",
+      "description" : "Produces an estery beer with apple, bubble gum and plum aromas but with little phenol.\n\nattenuation 72-76%\nFlocculation: medium\nTemperature range: 64-74F(18-23C)"
+    },
+    {
+      "yeast_type" : "Liquid",
+      "DateLastModified" : "\/\/Date:1372128898.188826",
+      "beer_type" : "Ale",
+      "attenuation" : "74.000000",
+      "UUID" : "BE45C4C9-2214-11DA-91CE-001124CAE2A6",
+      "name" : "Wyeast 3944-Belgian Witbier",
+      "description" : "A spicy, phenolic yeast with the phenols fading with maturation. Ferments fairly dry but can be a slow starter.\n\nattenuation 72-76%\nFlocculation: medium\nTemperature range: 62-75F(16-24C)"
+    },
+    {
+      "yeast_type" : "Liquid",
+      "DateLastModified" : "\/\/Date:1372128898.313222",
+      "beer_type" : "Ale",
+      "attenuation" : "75.000000",
+      "UUID" : "AEBDCD1A-4C64-4446-85AF-8CE167B79ACF",
+      "name" : "Wyeast 5151-Breattanomyces claussenii",
+      "description" : "Lambics, Geuze, Fruit Lambic, Flanders Red Ale\nProfile: Isolated from English stock ale, this wild yeast produces a mild “Brett” character with overtones of tropical fruit and pineapple. B. clausenii can be used as a primary strain; however it is typically inoculated in conjunction with other yeasts and lactic acid bacteria. A pellicle may develop in bottles or casks during conditioning.\n\nAlc. Tolerance 12% ABV  \nFlocculation     low\nattenuation       80%              \nTemp. Range   60-75F (15-24C)"
+    },
+    {
+      "yeast_type" : "Liquid",
+      "DateLastModified" : "\/\/Date:1372128898.243864",
+      "beer_type" : "Ale",
+      "attenuation" : "67.000000",
+      "UUID" : "C4A1B31A-2214-11DA-91CE-001124CAE2A6",
+      "name" : "Wyeast 5335-Lactobacillus Delbrueckii",
+      "description" : "A Belgian lactic acid bacteria that may find application in many types of soured beers. Produces moderate levels of acidity. Always used in conjunction with a saccharomyces yeast strain.\n\nTemperature range: 60-95F(15-35C)"
+    },
+    {
+      "yeast_type" : "Liquid",
+      "DateLastModified" : "\/\/Date:1372128898.226768",
+      "beer_type" : "Ale",
+      "attenuation" : "67.000000",
+      "UUID" : "7CA292D6-2215-11DA-91CE-001124CAE2A6",
+      "name" : "Wyeast 5733-Pediococcus Cerevisiae",
+      "description" : "A strong producer of lactic acid."
+    },
+    {
+      "yeast_type" : "Liquid",
+      "DateLastModified" : "\/\/Date:1372128898.086058",
+      "beer_type" : "Ale",
+      "attenuation" : "77.500000",
+      "UUID" : "3DEC1553-3F2D-4F25-B2B1-61C9DF475552",
+      "name" : "Wyeast 9093-Imperial Blend",
+      "description" : "This unique blend of strains is designed to ferment higher gravity worts used in producing any style of Imperial beer. The results will be a rich, malty, full bodied beer with notes of citrus & fruity esters. Even with a high starting gravity your Imperials will have a relatively dry finish.\n\nAlc. Tolerance: 12-14%\nFlocculation: low-medium\nattenuation: 75-80%      \nTemperature Range: 68-75F (20-24C)"
+    },
+    {
+      "yeast_type" : "Liquid",
+      "DateLastModified" : "\/\/Date:1372128898.154895",
+      "beer_type" : "Ale",
+      "attenuation" : "77.500000",
+      "UUID" : "F3C92213-9B1D-4394-BC79-5F9EFEA4122E",
+      "name" : "Wyeast 9097-Old Ale Blend",
+      "description" : "To bring you a bit of English brewing heritage we developed the “Old Ale” blend. It includes an attenuative ale strain along with a small amount of Brettanomyces. The blend will ferment well in dark worts, producing fruity beers with nice complexity. The Brettanomyces adds a pie cherry-like flavor and sourness during prolonged aging.\n\nAlc. Tolerance 12-14% ABV  \nFlocculation     medium\nattenuation      75-80%              \nTemp. Range   68-75F (20-24C)"
+    }
+  ]
+}
