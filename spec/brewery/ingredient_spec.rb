@@ -15,6 +15,12 @@ describe Brewery::Ingredient do
       it { expect(fermentable.extract).to eq('80.000000') }
       it { expect(fermentable.name).to eq('Australian Amber Malt') }
     end
+
+    context "search" do
+      let(:search) { fermentables.find_by(name: 'pale') }
+
+      it { expect(search.count).to eql(8) }
+    end
   end
 
   context "Hops" do
@@ -27,7 +33,13 @@ describe Brewery::Ingredient do
 
       it { expect(hop.description).to include('Exciting hop variety that was new in 2010 from Australia.') }
       it { expect(hop.alpha).to eq('15.000000') }
-      it { expect(hop.variety).to eq('Australian Galaxy') }
+      it { expect(hop.name).to eq('Australian Galaxy') }
+    end
+
+    context "search" do
+      let(:search) { hops.find_by(name: 'mag') }
+
+      it { expect(search.count).to eql(2) }
     end
   end
 
@@ -44,6 +56,12 @@ describe Brewery::Ingredient do
       it { expect(yeast.beer_type).to eq('Ale') }
       it { expect(yeast.attenuation).to eq('75.000000') }
       it { expect(yeast.name).to eq('Brewferm Ale Yeast') }
+    end
+
+    context "search" do
+      let(:search) { yeasts.find_by(name: '05') }
+
+      it { expect(search.count).to eql(7) }
     end
   end
 end

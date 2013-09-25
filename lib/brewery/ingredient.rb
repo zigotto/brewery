@@ -13,6 +13,10 @@ module Brewery
         @collection.each {|element| yield(Hashie::Mash.new(element)) }
       end
 
+      def find_by(name: nil)
+        self.find_all {|v| v.name =~ /#{name}/i}
+      end
+
       private
 
       def file=(file)
