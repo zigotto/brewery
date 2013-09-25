@@ -16,4 +16,18 @@ describe Brewery::Ingredient do
       it { expect(fermentable.name).to eq('Australian Amber Malt') }
     end
   end
+
+  context "hops" do
+    let(:hops) { Brewery.ingredients :hops }
+
+    it { expect(hops.count).to eql(85) }
+
+    context "hops data" do
+      let(:hop) { hops.first }
+
+      it { expect(hop.description).to include('Exciting hop variety that was new in 2010 from Australia.') }
+      it { expect(hop.alpha).to eq('15.000000') }
+      it { expect(hop.variety).to eq('Australian Galaxy') }
+    end
+  end
 end
