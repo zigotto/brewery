@@ -86,6 +86,44 @@ You can see the categories and styles [here](bjcp-categories.md)
 
 Comming soon.
 
+### Ingredients
+
+#### Fermentables
+
+```ruby
+fermentables = Brewery.ingredients :fermentables
+fermentables.count
+# => 187
+
+search = fermentables.find_by(name: 'pale ale')
+search.first.name
+# => "German Pale Ale Malt"
+```
+
+#### Hops
+
+```ruby
+hops = Brewery.ingredients :hops
+hops.count
+# => 85
+
+search = hops.find_by(name: 'magnum')
+search.first.name
+# => "German Hallertauer Magnum"
+```
+
+#### Yeast
+
+```ruby
+yeasts = Brewery.ingredients :yeasts
+yeasts.count
+# => 208
+
+search = yeasts.find_by(name: 'us-05')
+search.first.name
+# => "DCL US-05 (formerly US-56) SafAle"
+```
+
 ## Contributing
 
 1. Fork it

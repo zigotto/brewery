@@ -1,10 +1,14 @@
 require "brewery/version"
 require "nokogiri"
+require 'json'
+require 'hashie'
 
 module Brewery
+  autoload :Utils,          'brewery/utils'
   autoload :Refractometer,  'brewery/refractometer'
   autoload :Priming,        'brewery/priming'
   autoload :Guides,         'brewery/guides'
+  autoload :Ingredient,     'brewery/ingredient'
 
   class << self
     def guides(name)
@@ -15,6 +19,10 @@ module Brewery
       tool = Brewery.const_get(name.capitalize).new
       tool.instance_eval(&block)
       tool
+    end
+
+    def ingredients(name)
+      Brewery::Ingredient.const_get(name.capitalize).new(name)
     end
   end
 end

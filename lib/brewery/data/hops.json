@@ -1,0 +1,600 @@
+{
+  "IngredientType" : "Hop",
+  "Ingredients" : [
+    {
+      "description" : "Exciting hop variety that was new in 2010 from Australia. This is different from the American \"c\" hops in that it is more friut salad than citrus. Use early, late or dry. A must try hop.",
+      "UUID" : "B858276E-DA89-4954-8CFA-F87738809C58",
+      "DateLastModified" : "\/\/Date:1372128897.934685",
+      "alpha" : "15.000000",
+      "name" : "Australian Galaxy"
+    },
+    {
+      "description" : "The main hop variety in Australia, used extensively since the early 1960’s, and the dominant variety in Australian beers. A high alpha hop with good aroma characteristics.",
+      "UUID" : "394A6F30-F9C7-455D-B00E-B2DF976DB482",
+      "DateLastModified" : "\/\/Date:1372128897.928603",
+      "alpha" : "9.000000",
+      "name" : "Australian Pride Of Ringwood"
+    },
+    {
+      "description" : "Highly fragrant with herbal notes including thyme.",
+      "UUID" : "980A8AC8-C03D-40C9-8651-9B50E5B90CE0",
+      "DateLastModified" : "\/\/Date:1372128897.879364",
+      "alpha" : "15.000000",
+      "name" : "Australian Stella"
+    },
+    {
+      "description" : "A dual purpose variety. It's aroma profile is not as strong as with other Czech varieties. ",
+      "UUID" : "7334F22F-ECA2-4EFB-9057-8B4390BF086F",
+      "DateLastModified" : "\/\/Date:1372128897.933451",
+      "alpha" : "9.000000",
+      "name" : "Czech Premiant"
+    },
+    {
+      "description" : "The classic Pilsner hop from the Czech Republic used in many of the world’s finest beers. It’s beautiful aroma and delicate bitterness make it suitable for many styles.",
+      "UUID" : "880585AC-1BD2-11DA-9896-001124CAE2A6",
+      "DateLastModified" : "\/\/Date:1372128897.916780",
+      "alpha" : "3.000000",
+      "name" : "Czech Saaz"
+    },
+    {
+      "description" : "A medium alpha, saaz-like hop that is best used in combination with saaz as it's not as good as a finishing hop.",
+      "UUID" : "1727416E-8E3C-41F7-90DC-E3780821F3F5",
+      "DateLastModified" : "\/\/Date:1372128897.932246",
+      "alpha" : "7.000000",
+      "name" : "Czech Sladek"
+    },
+    {
+      "description" : "It is similar to Hersbruck in profile but preferred by some breweries. Typical beer styles include pilsners, lagers, and wheats.",
+      "UUID" : "EF0E981C-8EDB-4D9F-A2C7-04F31B222AAB",
+      "DateLastModified" : "\/\/Date:1372128897.925028",
+      "alpha" : "3.500000",
+      "name" : "French Strisselspalter"
+    },
+    {
+      "description" : "A well-tried and tested bitter hop. Brewers Gold has a high resin content and gives a well-balanced bitterness which is ideally complimented by a late aroma hop in Lager beers. When used in cask conditioned ales, can give some very interesting fruity and spicy characteristics",
+      "UUID" : "512B07E3-1BD2-11DA-9896-001124CAE2A6",
+      "DateLastModified" : "\/\/Date:1372128897.965601",
+      "alpha" : "7.000000",
+      "name" : "German Brewers Gold"
+    },
+    {
+      "description" : "",
+      "UUID" : "445CCCBE-581D-482B-BB7E-AB7846446C82",
+      "DateLastModified" : "\/\/Date:1372128897.910959",
+      "alpha" : "3.500000",
+      "name" : "German Crystal"
+    },
+    {
+      "description" : "Grown in the Hersbruck district of the Hallertau this is the classic ‘Lager hop’. Low in alpha acid content but high in the essential oils that provide the fine aroma properties and flavour that are world renowned.",
+      "UUID" : "5F82B21A-1BD2-11DA-9896-001124CAE2A6",
+      "DateLastModified" : "\/\/Date:1372128897.962885",
+      "alpha" : "3.500000",
+      "name" : "German Hallertauer Hersbrucker"
+    },
+    {
+      "description" : "Has no real aroma properties so best as a bittering hop",
+      "UUID" : "29354F63-6806-4BD0-AD78-DD4FFD07B7AC",
+      "DateLastModified" : "\/\/Date:1372128897.915469",
+      "alpha" : "11.000000",
+      "name" : "German Hallertauer Magnum"
+    },
+    {
+      "description" : "Arguably the world’s finest aroma hop. Much of the production is shipped to the USA where it is used in the production of the multi-award winning Samuel Adams beers",
+      "UUID" : "5870F086-1BD2-11DA-9896-001124CAE2A6",
+      "DateLastModified" : "\/\/Date:1372128897.900859",
+      "alpha" : "5.000000",
+      "name" : "German Hallertauer Mittlefruh"
+    },
+    {
+      "description" : "Has very strong bittering properties but an average aroma.",
+      "UUID" : "9C05EA21-44C9-4059-ACB0-CFFC657290CA",
+      "DateLastModified" : "\/\/Date:1372128897.920333",
+      "alpha" : "15.000000",
+      "name" : "German Herkules"
+    },
+    {
+      "description" : "Used as a Dual-Purpose variety it gives excellent bittering properties and a pleasant aroma.",
+      "UUID" : "67C8318E-1BD2-11DA-9896-001124CAE2A6",
+      "DateLastModified" : "\/\/Date:1372128897.954857",
+      "alpha" : "8.000000",
+      "name" : "German Northern Brewer"
+    },
+    {
+      "description" : "",
+      "UUID" : "B402483E-ED26-440C-BB00-AF546249472F",
+      "DateLastModified" : "\/\/Date:1372128897.892388",
+      "alpha" : "6.500000",
+      "name" : "German Opal"
+    },
+    {
+      "description" : "Perle is an excellent aroma hop, with characteristics as good as those of Hallertau Mittlefruh but with a higher alpha Acid content.",
+      "UUID" : "72BA41CC-1BD2-11DA-9896-001124CAE2A6",
+      "DateLastModified" : "\/\/Date:1372128897.922656",
+      "alpha" : "8.000000",
+      "name" : "German Perle"
+    },
+    {
+      "description" : "",
+      "UUID" : "F0491330-0972-49FE-A4D8-B4CB7A318F5B",
+      "DateLastModified" : "\/\/Date:1372128897.914337",
+      "alpha" : "3.500000",
+      "name" : "German Saphir"
+    },
+    {
+      "description" : "German Spalt is the noblest of noble hops. It is a very fine aroma hop.",
+      "UUID" : "79AC43EC-1BD2-11DA-9896-001124CAE2A6",
+      "DateLastModified" : "\/\/Date:1372128897.917973",
+      "alpha" : "4.500000",
+      "name" : "German Spalt Select"
+    },
+    {
+      "description" : "Tettnang variety is a very fine traditional aroma hop, well established in the European Lager type beers. They have been used successfully in traditional lighter English cask ales",
+      "UUID" : "80574E4B-1BD2-11DA-9896-001124CAE2A6",
+      "DateLastModified" : "\/\/Date:1372128897.880318",
+      "alpha" : "4.500000",
+      "name" : "German Tettnang"
+    },
+    {
+      "description" : "German Tradition was bred to replace Hersbrucker in German grown areas. It's a very fine aroma hop",
+      "UUID" : "56BED71F-71F7-4A9A-8598-E4DAAD8DC0B4",
+      "DateLastModified" : "\/\/Date:1372128897.964262",
+      "alpha" : "5.500000",
+      "name" : "German Tradition"
+    },
+    {
+      "description" : "The classic American pale ale hop grown in New Zealand, Cascade has a unique floral\/spicy aroma both in the cone form and in the beer, mainly due to abnormal levels of some of the essential oils. It is very popular with some brewers due to the unique character imparted to the finished beer, others object to it because of its “perfume like” hoppy flavour.",
+      "UUID" : "61D4F8D3-BF10-4638-8BDA-4ADB0F9C58C1",
+      "DateLastModified" : "\/\/Date:1372128897.919134",
+      "alpha" : "8.000000",
+      "name" : "NZ Cascade"
+    },
+    {
+      "description" : "Powerful grapefruit “citrus” characters are literally breathtaking.  This variety is typically seen to have higher then average oil, almost double that of its Saazer parent\n\nIf you want to say “hops” in your beer then this variety says it all. A punchy addition to the new-world styles of Pale Ale and regional Pilseners. A cult hero that is established in the New Zealand craft beer culture.",
+      "UUID" : "13760940-004F-442E-AA98-D42E6EB31D1E",
+      "DateLastModified" : "\/\/Date:1372128897.929808",
+      "alpha" : "5.500000",
+      "name" : "NZ D Saaz"
+    },
+    {
+      "description" : "Although a new variety in relative terms, Green Bullet delivers a very real, traditional bittering quality and hop flavour. A flagship within the New Zealand brewing industry this hop has contributed to several International Brewing Industry Awards.  Considered a bittering variety typically for Lager, Green Bullet also carries a solid Styrian characteristic of subtle spiciness which finds it at home in a freshly drawn pint of Bitter or an Irish-style Dry Stout.",
+      "UUID" : "99FB7E24-1BD2-11DA-9896-001124CAE2A6",
+      "DateLastModified" : "\/\/Date:1372128897.938377",
+      "alpha" : "12.500000",
+      "name" : "NZ Green Bullet"
+    },
+    {
+      "description" : "Has a very restrained floral character which selectors say is atop an aroma of freshly-zested lime. These excellent brewing qualities carry right through from selection to the finished beer.\n\nA multi-skilled hop that consistently delivers across all areas from kettle to consumer. A true dual-purpose variety with an enviable alpha: beta ratio, the New Zealand Hallertau measures up on flavour scores as well as flavour stability trials. Its rounded flavour, moderate cohumulone and outstanding oil profile create a truly rewarding finish.",
+      "UUID" : "A28689B2-1BD2-11DA-9896-001124CAE2A6",
+      "DateLastModified" : "\/\/Date:1372128897.927396",
+      "alpha" : "7.500000",
+      "name" : "NZ Hallertauer Aroma"
+    },
+    {
+      "description" : "First impressions are a very lively and lifted lemon and lime followed by a background of tropical fruit. This variety displays similarities to its Saazer parent through its levels of Farnesene typically around the 12 % mark however the higher alpha also makes this hop more desirable in dual purpose applications. It imparts a balanced bitterness as well as a desirable new world “noble” type aroma.\n\nAn excellent hop in many applications from first kettle additions through to late gift.  This hop offers a unique aroma and flavour making it suitable for producing bigger more traditional style Lagers, especially Bohemian Pilsener. Excellent when employed in multiple additions from a single hop bill and sits well on the palate to balance speciality malt sweetness. An excellent variety for Belgian Ales and gives a real edge to Cask Bitter.",
+      "UUID" : "B2A16D20-9576-4ADF-BA0F-2706C3D3DB48",
+      "DateLastModified" : "\/\/Date:1372128897.903041",
+      "alpha" : "7.000000",
+      "name" : "NZ Motueka"
+    },
+    {
+      "description" : "Nelson Sauvin has the unique ability to impart a distinctive cool climate white wine “fruitiness”. The complexity of the oils profile has seen selectors stretched looking for descriptors to document this unique new world variety.\n\nA hop that requires judicious application in the brew house, this truly unique dual-purpose variety can be used to produce big punchy Ales as well as subtle yet bitter Lagers. The fruitiness may be a little overpowering for the un-initiated, however those with a penchant for bold hop character will find several applications for this true brewer's hop.",
+      "UUID" : "662CF993-CC14-46B4-ADED-70A6C61E584F",
+      "DateLastModified" : "\/\/Date:1372128897.976753",
+      "alpha" : "12.500000",
+      "name" : "NZ Nelson Sauvin"
+    },
+    {
+      "description" : "Pacific Gem fills the brew house with enticing aromas during kettle addition and has been described as producing oaken flavours with a distinct blackberry aroma.  Typically used as a first hop addition and makes its presence felt through an excellent tempered bitterness and flavour. Well suited to a wide range of beer styles and lends itself well to European Lager styles of various bitterness levels.",
+      "UUID" : "B01C6790-1BD2-11DA-9896-001124CAE2A6",
+      "DateLastModified" : "\/\/Date:1372128897.937128",
+      "alpha" : "14.000000",
+      "name" : "NZ Pacific Gem"
+    },
+    {
+      "description" : "The aroma of this hop is described as “bold” as it delivers a herbal infusion of fresh citrus and crushed black pepper. Brewing trials have illustrated Pacific Jade as an excellent hop that delivers a pleasing soft bitterness matched to desirable aroma characteristics.\n\nSuited for use as a bittering hop with some excellent results also being seen in dual purpose applications, with a soft bitterness attributable to the low cohumulone. The citrus aroma and flavour notes work well to temper malt sweetness in “fullish” Ales especially when used moderately as a finishing hop. Pacific Jade is also well suited to balance dryer Lager styles when employed as an “up-front” kettle addition to showcase its bittering qualities",
+      "UUID" : "0C04FA50-95C3-4EAC-B409-264B7298DC9B",
+      "DateLastModified" : "\/\/Date:1372128897.906389",
+      "alpha" : "13.000000",
+      "name" : "NZ Pacific Jade"
+    },
+    {
+      "description" : "Displays classic Hallertau citrus and floral aroma character. The aroma is supported by a generous oils profile making selection possible for several beer styles from this stylish hop.\n\nThe Pacific Hallertau brings something of a blend of new and old-world taste descriptors to the brewers' forum. Orange marmalade aptly describes the citrus aroma notes achieved through late addition.  Bittering quality is such that early kettle additions net a soft yet solid finish even in highly bittered beers.",
+      "UUID" : "B7273B80-1BD2-11DA-9896-001124CAE2A6",
+      "DateLastModified" : "\/\/Date:1372128897.947145",
+      "alpha" : "6.000000",
+      "name" : "NZ Pacifica"
+    },
+    {
+      "description" : "Used for first addition bittering this hop has no pretence at substitution for noble type. A kettle variety of the highest order Southern Cross imparts a soft bitterness with a subtle resinous quality. The essential oil component is such that it can deliver a delicate balance of citrus and spice when added toward the end of boil. Generally selected for its consistency in mainstream Lagers this hop has also ventured into the craft market as a reliable Brewpub mainstay.",
+      "UUID" : "5DE962B0-066C-4DA9-9526-59141E9BDBE4",
+      "DateLastModified" : "\/\/Date:1372128897.882889",
+      "alpha" : "12.500000",
+      "name" : "NZ Southern Cross"
+    },
+    {
+      "description" : "",
+      "UUID" : "596BC0FA-1BD3-11DA-9896-001124CAE2A6",
+      "DateLastModified" : "\/\/Date:1372128897.945896",
+      "alpha" : "13.500000",
+      "name" : "NZ Sticklebract"
+    },
+    {
+      "description" : "A very versatile hop in the brew house where it can be used to deliver a very crisp bitter edge on the back pallet as well as excellent aroma qualities. Like most New Zealand varieties the exceptional oil profile sets it apart as a hop with many applications. A mainstay in the New Zealand Brewing industry since the mid 1970s' the Super alpha can now be found in breweries throughout the Asia Pacific region where it is sought for its ability to integrate and finely balance many regional Ales and Lagers.",
+      "UUID" : "E86349F4-26C9-416F-AFCD-0AF39C168769",
+      "DateLastModified" : "\/\/Date:1372128897.957463",
+      "alpha" : "11.000000",
+      "name" : "NZ Super alpha"
+    },
+    {
+      "description" : "New Zealand grown version of the US classic hop. Willamette is generally perceived as a good quality aroma hop. The rub of the hops gives an estery\/blackcurrant\/herbal aroma that is very pleasant but can be quite strong. Differing results have been achieved with this variety. Some brewers have found it to be a suitable replacement for Fuggle, others have had poor results when using it this way but have found that it stand up admirably as an aroma variety on its own merits.",
+      "UUID" : "B4CC18F6-FA8B-47B6-BDB5-AD8DCD61B0BD",
+      "DateLastModified" : "\/\/Date:1372128897.887377",
+      "alpha" : "7.000000",
+      "name" : "NZ Willamette"
+    },
+    {
+      "description" : "",
+      "UUID" : "A845D8DE-3247-4018-8323-D6BC7CEE63ED",
+      "DateLastModified" : "\/\/Date:1372128897.896568",
+      "alpha" : "4.000000",
+      "name" : "Polish Lublin"
+    },
+    {
+      "description" : "Styrian like.",
+      "UUID" : "22BF4C15-D95B-4537-902C-8F25B8706500",
+      "DateLastModified" : "\/\/Date:1372128897.904190",
+      "alpha" : "4.000000",
+      "name" : "Slovenian Bobek"
+    },
+    {
+      "description" : "Celeia is a triploid hybrid between autotetraploid Styrian Golding and 105\/58 hybrid between Aurora (Super Styrian) and a Slovenian wild hop.",
+      "UUID" : "50DE39F3-ABAD-4390-A3A9-26C45DD57841",
+      "DateLastModified" : "\/\/Date:1372128897.884713",
+      "alpha" : "5.500000",
+      "name" : "Slovenian Celeia"
+    },
+    {
+      "description" : "This distinguished variety is well known throughout the world and although identical to Fuggle in many ways it does have its own distinctive characteristics. The perfume-like hoppy character that was again used mainly in European lagers works very well in the less malty flavoured golden coloured ales.",
+      "UUID" : "91CD8FEC-1BD2-11DA-9896-001124CAE2A6",
+      "DateLastModified" : "\/\/Date:1372128897.907547",
+      "alpha" : "4.500000",
+      "name" : "Slovenian Styrian Goldings"
+    },
+    {
+      "description" : "",
+      "UUID" : "0CC9EF10-6254-4495-89C7-6A244357E208",
+      "DateLastModified" : "\/\/Date:1372128897.961530",
+      "alpha" : "9.500000",
+      "name" : "Slovenian Super Styrian (Aurora)"
+    },
+    {
+      "description" : "Very good high alpha hop. Not as harsh as Target in terms of quality of bitterness and has a very pleasant hoppy character.",
+      "UUID" : "DC9E2329-1BD1-11DA-9896-001124CAE2A6",
+      "DateLastModified" : "\/\/Date:1372128897.899783",
+      "alpha" : "14.500000",
+      "name" : "UK Admiral"
+    },
+    {
+      "description" : "A replacement for challenger.",
+      "UUID" : "BB247609-723C-44C3-B74F-2C2550BE6EB7",
+      "DateLastModified" : "\/\/Date:1372128897.968457",
+      "alpha" : "6.000000",
+      "name" : "UK Boadicea"
+    },
+    {
+      "description" : "A hop of considerable character. It has a strong spicy \/ blackcurrant flavour  best suited to stronger, darker styles.  When used for bitters and pale ales it is best blended with other varieties, it can be a substitute for Fuggles. \n",
+      "UUID" : "E3881F38-1BD1-11DA-9896-001124CAE2A6",
+      "DateLastModified" : "\/\/Date:1372128897.971193",
+      "alpha" : "6.000000",
+      "name" : "UK Bramling Cross"
+    },
+    {
+      "description" : "An excellent all round hop with good alpha and aroma properties. As the main copper hop it provides a refreshing, full bodied, rounded bitterness which provides an excellent platform for a late hop. As the late addition it can give a very crisp, fruity character which has proved very popular in many beers.",
+      "UUID" : "EBB2C777-1BD1-11DA-9896-001124CAE2A6",
+      "DateLastModified" : "\/\/Date:1372128897.921491",
+      "alpha" : "7.000000",
+      "name" : "UK Challenger"
+    },
+    {
+      "description" : "The variety is very suitable both as a general kettle hop and also for late and dry hopping in all types of beer. First Gold has good aroma and bittering qualities, much of the flavour of WGV seems to have been retained but with an added extra citrus quality, produces a well-balanced bitterness and a fruity, slightly spicy note in ales. An orangey quality has been observed in many beers brewed using this variety.",
+      "UUID" : "F4A3C37F-1BD1-11DA-9896-001124CAE2A6",
+      "DateLastModified" : "\/\/Date:1372128897.972536",
+      "alpha" : "8.000000",
+      "name" : "UK First Gold"
+    },
+    {
+      "description" : "The delicate, minty, grassy, slightly floral aroma produces a clean, refreshing, full-bodied flavour present in many traditional ales. Although still used in Bitters and Pale Ales, they are best used for flavouring the darker British styles such as mild, stout and brown ales.  \n\n",
+      "UUID" : "FEFA85BB-1BD1-11DA-9896-001124CAE2A6",
+      "DateLastModified" : "\/\/Date:1372128897.883765",
+      "alpha" : "4.500000",
+      "name" : "UK Fuggle"
+    },
+    {
+      "description" : "A traditional English aroma variety valued for its smooth (almost sweet), delicate, slightly spicy aroma that produces the classic Golding finish. As with Fuggles it forms the basis of many well-known and respected recipes.",
+      "UUID" : "0826D227-1BD2-11DA-9896-001124CAE2A6",
+      "DateLastModified" : "\/\/Date:1372128897.958854",
+      "alpha" : "5.500000",
+      "name" : "UK Golding"
+    },
+    {
+      "description" : " This variety will be excellent as a substitute for dual-purpose or high alpha varieties in all types of beer and particularly useful as a replacement for Target where Target is found to have too harsh a bitterness. In aroma terms Herald produces a well-rounded gentle grapefruit\/citrus flavour.",
+      "UUID" : "11D0EE93-1BD2-11DA-9896-001124CAE2A6",
+      "DateLastModified" : "\/\/Date:1372128897.894458",
+      "alpha" : "11.000000",
+      "name" : "UK Herald"
+    },
+    {
+      "description" : "An excellent all round hop in the dual-purpose bracket with good alpha and aroma properties. Very popular used either on its own or in conjunction with an aroma variety. A slightly richer flavour than Challenger although quite similar in many other ways.",
+      "UUID" : "1A1A3466-1BD2-11DA-9896-001124CAE2A6",
+      "DateLastModified" : "\/\/Date:1372128897.898710",
+      "alpha" : "8.000000",
+      "name" : "UK Northdown"
+    },
+    {
+      "description" : "In brewing trials Phoenix has performed well as a replacement for high alpha or dual purpose hops early in the boil. It is however poor as a late hop giving weak aroma.",
+      "UUID" : "211DF2A0-1BD2-11DA-9896-001124CAE2A6",
+      "DateLastModified" : "\/\/Date:1372128897.956157",
+      "alpha" : "10.000000",
+      "name" : "UK Phoenix"
+    },
+    {
+      "description" : "Pigrim has performed well as a replacement for high alpha or dual purpose hops. Because of its alpha it has been compared to Target more than any other variety. It has however a much hoppier aroma than Target.",
+      "UUID" : "27AB0202-1BD2-11DA-9896-001124CAE2A6",
+      "DateLastModified" : "\/\/Date:1372128897.940876",
+      "alpha" : "11.000000",
+      "name" : "UK Pilgrim"
+    },
+    {
+      "description" : "Has a very pleasant, lemon, citrus aroma. Initial brews have proved to be very successful with very distinctive, hoppy characteristics",
+      "UUID" : "2FCDD675-1BD2-11DA-9896-001124CAE2A6",
+      "DateLastModified" : "\/\/Date:1372128897.889252",
+      "alpha" : "9.000000",
+      "name" : "UK Pioneer"
+    },
+    {
+      "description" : "Progress was originally introduced as a replacement for Fuggle and has very similar characteristics. Slightly sweeter and with a slightly softer bitterness it is has excellent potential at both the start and end of the boil.",
+      "UUID" : "376E0CF2-1BD2-11DA-9896-001124CAE2A6",
+      "DateLastModified" : "\/\/Date:1372128897.912079",
+      "alpha" : "5.500000",
+      "name" : "UK Progress"
+    },
+    {
+      "description" : "A high alpha bittering hop that tends to be too harsh for aroma purposes late in the boil but has produced very good results when used as dry hop pellets in the cask.",
+      "UUID" : "42F9DF80-1BD2-11DA-9896-001124CAE2A6",
+      "DateLastModified" : "\/\/Date:1372128897.931044",
+      "alpha" : "10.500000",
+      "name" : "UK Target"
+    },
+    {
+      "description" : "Very similar to Goldings but not quite as delicate, with a hoppier more robust aroma.",
+      "UUID" : "49D1AAF3-1BD2-11DA-9896-001124CAE2A6",
+      "DateLastModified" : "\/\/Date:1372128897.926217",
+      "alpha" : "6.500000",
+      "name" : "UK WGV"
+    },
+    {
+      "description" : "A very distinctive hop used for its aromatic properties and moderate bittering.",
+      "UUID" : "BF1205F0-1BD2-11DA-9896-001124CAE2A6",
+      "DateLastModified" : "\/\/Date:1372128897.881205",
+      "alpha" : "6.000000",
+      "name" : "US Ahtanum"
+    },
+    {
+      "description" : "Unique. Very floral and spicy. Powerful aroma with good bittering quality.",
+      "UUID" : "C87E536D-1BD2-11DA-9896-001124CAE2A6",
+      "DateLastModified" : "\/\/Date:1372128897.942168",
+      "alpha" : "5.000000",
+      "name" : "US Amarillo"
+    },
+    {
+      "description" : "This is a \"massive\" American hop along the same lines as Centennial, Columbus and the like. ",
+      "UUID" : "DD31E310-68D1-4704-A2F8-F16E9C6A1BCB",
+      "DateLastModified" : "\/\/Date:1372128897.923823",
+      "alpha" : "19.000000",
+      "name" : "US Apollo"
+    },
+    {
+      "description" : "A new American high alpha hop.",
+      "UUID" : "696C7D07-2A19-4A65-A081-74EA7E1FE28B",
+      "DateLastModified" : "\/\/Date:1372128897.897624",
+      "alpha" : "15.000000",
+      "name" : "US Bravo"
+    },
+    {
+      "description" : "Cascade has a unique floral\/spicy aroma both in the cone form and in the beer, mainly due to abnormal levels of some of the essential oils. It is very popular with some brewers due to the unique character imparted to the finished beer, others object to it because of its “perfume like” hoppy flavour.",
+      "UUID" : "D280EF01-1BD2-11DA-9896-001124CAE2A6",
+      "DateLastModified" : "\/\/Date:1372128897.969823",
+      "alpha" : "4.500000",
+      "name" : "US Cascade"
+    },
+    {
+      "description" : "Has quite floral qualities similar to that of Cascade.",
+      "UUID" : "E0507B0E-1BD2-11DA-9896-001124CAE2A6",
+      "DateLastModified" : "\/\/Date:1372128897.890279",
+      "alpha" : "8.500000",
+      "name" : "US Centennial"
+    },
+    {
+      "description" : "",
+      "UUID" : "04CF3EAB-1BC3-414D-A787-A348318EBDEE",
+      "DateLastModified" : "\/\/Date:1372128897.909832",
+      "alpha" : "14.000000",
+      "name" : "US Chelan"
+    },
+    {
+      "description" : "A high alpha acid hop with a very unusual aroma profile. Chinook has a very strong grapefruit character.",
+      "UUID" : "E8FF0DA4-1BD2-11DA-9896-001124CAE2A6",
+      "DateLastModified" : "\/\/Date:1372128897.891332",
+      "alpha" : "10.500000",
+      "name" : "US Chinook"
+    },
+    {
+      "description" : "Citra is a new special aroma hop variety and has unique and highly favored flavour characteristics. As the name suggests its flavour descriptors include the citrus fruits lime and grapefruit, other fruity characters described as gooseberry, passion fruit, lychee as well as numerous other tropical fruits.",
+      "UUID" : "7E521502-D446-4223-9E1A-756AA2EE20AD",
+      "DateLastModified" : "\/\/Date:1372128897.939625",
+      "alpha" : "15.000000",
+      "name" : "US Citra"
+    },
+    {
+      "description" : "An excellent general purpose hop with medium and well balanced bittering potential and a very deep fruity aroma. Gives great depth of character with a strong hop\/fruit aroma.",
+      "UUID" : "F0053BF0-1BD2-11DA-9896-001124CAE2A6",
+      "DateLastModified" : "\/\/Date:1372128897.886506",
+      "alpha" : "7.500000",
+      "name" : "US Cluster"
+    },
+    {
+      "description" : "",
+      "UUID" : "80D2666B-020A-428E-B02C-8BB648F7B623",
+      "DateLastModified" : "\/\/Date:1372128897.967050",
+      "alpha" : "7.000000",
+      "name" : "US Columbia"
+    },
+    {
+      "description" : "Generally used for main copper hop in the form of extracts and pellets because of the exceedingly high alpha.",
+      "UUID" : "F746F8D6-1BD2-11DA-9896-001124CAE2A6",
+      "DateLastModified" : "\/\/Date:1372128897.949733",
+      "alpha" : "15.500000",
+      "name" : "US Columbus(Tomahawk)"
+    },
+    {
+      "description" : "Crystal is very popular in the craft-brewing industry. Viewed as the most pungent of the new triploid Hallertau family of hops",
+      "UUID" : "FE439AFE-1BD2-11DA-9896-001124CAE2A6",
+      "DateLastModified" : "\/\/Date:1372128897.975352",
+      "alpha" : "3.500000",
+      "name" : "US Crystal"
+    },
+    {
+      "description" : "This variety of American hop comes from Cascade\/Fuggle parentage. Like Cascade but milder. Very floral.",
+      "UUID" : "BD3A2269-9E6C-45BB-927E-3AC30C3F51FF",
+      "DateLastModified" : "\/\/Date:1372128897.895502",
+      "alpha" : "6.500000",
+      "name" : "US Delta"
+    },
+    {
+      "description" : "",
+      "UUID" : "B0A81AB2-2E07-4EB5-A375-394CB5A3D459",
+      "DateLastModified" : "\/\/Date:1372128897.944653",
+      "alpha" : "11.000000",
+      "name" : "US Eroica"
+    },
+    {
+      "description" : "Galena is generally perceived as an excellent high alpha hop with balanced bittering potential. The very strong tomcat \/ blackcurrant aroma characteristics are similar to that of the old Bullion variety which for many years was used in Guinness. A very strong fruity character can be achieved with this variety.",
+      "UUID" : "0681F9EB-1BD3-11DA-9896-001124CAE2A6",
+      "DateLastModified" : "\/\/Date:1372128897.935904",
+      "alpha" : "13.000000",
+      "name" : "US Galena"
+    },
+    {
+      "description" : "Glacier is an excellent new variety with balanced bittering properties combined with a good aroma profile.",
+      "UUID" : "57FD9A6F-3315-4ADE-B715-9C441A093A0A",
+      "DateLastModified" : "\/\/Date:1372128897.913207",
+      "alpha" : "5.000000",
+      "name" : "US Glacier"
+    },
+    {
+      "description" : "Horizon has good potential as a medium alpha, good aroma, dual-purpose hop. Has a low co-humulone, with results in a clean tasting beer.",
+      "UUID" : "1225EDEC-1BD3-11DA-9896-001124CAE2A6",
+      "DateLastModified" : "\/\/Date:1372128897.960195",
+      "alpha" : "13.500000",
+      "name" : "US Horizon"
+    },
+    {
+      "description" : "Liberty has many similarities to the Hallertauer Mittlefruh. The cones contain a moderate amount of lupulin that is a light yellow colour. The aroma is mild and clean. Liberty has shown many similarities to a Golding hop but has just a hint of lemon\/citrus flavour that gives it an extra edge on the smooth Golding flavour.",
+      "UUID" : "19D64D16-1BD3-11DA-9896-001124CAE2A6",
+      "DateLastModified" : "\/\/Date:1372128897.948435",
+      "alpha" : "4.500000",
+      "name" : "US Liberty"
+    },
+    {
+      "description" : "Magnum is a high-alpha variety and used as a clean bittering hop",
+      "UUID" : "379C85D1-C28D-4EBB-84D8-A19E55B399BF",
+      "DateLastModified" : "\/\/Date:1372128897.905287",
+      "alpha" : "16.000000",
+      "name" : "US Magnum"
+    },
+    {
+      "description" : "Mount Hood is generally perceived as an aroma variety with similar characteristics to the German Hallertauer Mittlefruh and Hersbrucker varieties. The cones contain a moderate amount of lupulin that is yellow in colour. The aroma is generally pleasant, mild and herbal. In British style ales the flavour comes through as delicate, floral and slightly herbal",
+      "UUID" : "205AE475-1BD3-11DA-9896-001124CAE2A6",
+      "DateLastModified" : "\/\/Date:1372128897.885635",
+      "alpha" : "4.500000",
+      "name" : "US Mount Hood"
+    },
+    {
+      "description" : "",
+      "UUID" : "0ED4ACEA-45BE-46A5-B674-E5328E4FEAF0",
+      "DateLastModified" : "\/\/Date:1372128897.951008",
+      "alpha" : "11.000000",
+      "name" : "US Newport"
+    },
+    {
+      "description" : "A high alpha hop with a good aroma profile. Typical beer styles include ales, stouts, and barley wine. ",
+      "UUID" : "282022FC-1BD3-11DA-9896-001124CAE2A6",
+      "DateLastModified" : "\/\/Date:1372128897.973927",
+      "alpha" : "13.000000",
+      "name" : "US Nugget"
+    },
+    {
+      "description" : "",
+      "UUID" : "3F13486D-0055-485C-86CE-45AD9F16D255",
+      "DateLastModified" : "\/\/Date:1372128897.888265",
+      "alpha" : "12.000000",
+      "name" : "US Olympic"
+    },
+    {
+      "description" : "",
+      "UUID" : "2FB18BE5-1BD3-11DA-9896-001124CAE2A6",
+      "DateLastModified" : "\/\/Date:1372128897.952297",
+      "alpha" : "6.000000",
+      "name" : "US Santiam"
+    },
+    {
+      "description" : "Pleasant hoppy aroma with low Co-Homulone and high alpha acid content. Herbal, piney and citrusy.",
+      "UUID" : "391C231E-1BD3-11DA-9896-001124CAE2A6",
+      "DateLastModified" : "\/\/Date:1372128897.943415",
+      "alpha" : "13.000000",
+      "name" : "US Simcoe"
+    },
+    {
+      "description" : "U.S grown hop that has similarities to Styrian Goldings",
+      "UUID" : "6A7AC7E7-45B9-48E3-B481-26304F77527F",
+      "DateLastModified" : "\/\/Date:1372128897.893419",
+      "alpha" : "4.000000",
+      "name" : "US Sonnet"
+    },
+    {
+      "description" : "Similar to Saaz or Mt Hood.",
+      "UUID" : "43045548-1BD3-11DA-9896-001124CAE2A6",
+      "DateLastModified" : "\/\/Date:1372128897.908707",
+      "alpha" : "7.000000",
+      "name" : "US Sterling"
+    },
+    {
+      "description" : "Summit is a high-alpha, dwarf variety with low cohumulone levels. Summit is said to have strong orange and tangerine citrus notes in its flavor.",
+      "UUID" : "AA64E242-4FD2-47AA-8E5D-E065E2C57EE8",
+      "DateLastModified" : "\/\/Date:1372128897.877277",
+      "alpha" : "18.000000",
+      "name" : "US Summit"
+    },
+    {
+      "description" : "Vanguard is a fairly new aroma hop similar to the Hallertauer hop.",
+      "UUID" : "4B240888-1BD3-11DA-9896-001124CAE2A6",
+      "DateLastModified" : "\/\/Date:1372128897.882050",
+      "alpha" : "5.000000",
+      "name" : "US Vanguard"
+    },
+    {
+      "description" : "",
+      "UUID" : "1D50A75B-FDDB-4A76-A476-1664A98B70AC",
+      "DateLastModified" : "\/\/Date:1372128897.953576",
+      "alpha" : "15.500000",
+      "name" : "US Warrior"
+    },
+    {
+      "description" : "Willamette is generally perceived as a good quality aroma hop. The rub of the hops gives an estery\/blackcurrant\/herbal aroma that is very pleasant but can be quite strong. Differing results have been achieved with this variety. Some brewers have found it to be a suitable replacement for Fuggle, others have had poor results when using it this way but have found that it stand up admirably as an aroma variety on its own merits.",
+      "UUID" : "523E23A3-1BD3-11DA-9896-001124CAE2A6",
+      "DateLastModified" : "\/\/Date:1372128897.901952",
+      "alpha" : "4.500000",
+      "name" : "US Willamette"
+    }
+  ]
+}
