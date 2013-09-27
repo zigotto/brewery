@@ -95,9 +95,11 @@ fermentables = Brewery.ingredients :fermentables
 fermentables.count
 # => 187
 
-search = fermentables.find_by(name: 'pale ale')
-search.first.name
-# => "German Pale Ale Malt"
+fermentables.find_by_name('pale ale')
+fermentables.find_by_description('alber malt')
+fermentables.find_by_color('22.000')
+fermentables.find_by_moisture('3.0')
+fermentables.find_by_extract('80.0')
 ```
 
 #### Hops
@@ -107,9 +109,9 @@ hops = Brewery.ingredients :hops
 hops.count
 # => 85
 
-search = hops.find_by(name: 'magnum')
-search.first.name
-# => "German Hallertauer Magnum"
+hops.find_by_name('magnum')
+hops.find_by_description('Australia')
+hops.find_by_alpha('15.0')
 ```
 
 #### Yeast
@@ -119,9 +121,11 @@ yeasts = Brewery.ingredients :yeasts
 yeasts.count
 # => 208
 
-search = yeasts.find_by(name: 'us-05')
-search.first.name
-# => "DCL US-05 (formerly US-56) SafAle"
+yeasts.find_by_name('us-05')
+yeasts.find_by_description('fermenting strain')
+yeasts.find_by_yeast_type('liquid')
+yeasts.find_by_beer_type('Ale')
+yeasts.find_by_beer_attenuation('75.0')
 ```
 
 ## Contributing
