@@ -64,4 +64,23 @@ describe Brewery::Ingredient do
       it { expect(search.count).to eql(7) }
     end
   end
+
+  context "Other Ingredients" do
+    let(:other) { Brewery.ingredients :other }
+
+    it { expect(other.count).to eql(30) }
+
+    context "other ingredients data" do
+      let(:amylase) { other.first }
+
+      it { expect(amylase.description).to include('Allows the creation of drier beers than') }
+      it { expect(amylase.name).to eq('Amylase Enzyme') }
+    end
+
+    context "search" do
+      let(:search) { other.find_by(name: 'gelatine') }
+
+      it { expect(search.count).to eql(1) }
+    end
+  end
 end

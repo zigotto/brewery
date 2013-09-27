@@ -1,0 +1,185 @@
+{
+  "IngredientType" : "Other",
+  "Ingredients" : [
+    {
+      "description" : "Allows the creation of drier beers than usual by converting longer chain, unfermentable sugars into those fermentable by yeast.",
+      "UUID" : "F4E40EB5-2300-11DA-9C39-001124CAE2A6",
+      "DateLastModified" : "\/\/Date:1372128898.013509",
+      "name" : "Amylase Enzyme"
+    },
+    {
+      "description" : "",
+      "UUID" : "15601EC8-2301-11DA-9C39-001124CAE2A6",
+      "DateLastModified" : "\/\/Date:1372128898.015244",
+      "name" : "Apricot Extract"
+    },
+    {
+      "description" : "",
+      "UUID" : "1D61E91B-2301-11DA-9C39-001124CAE2A6",
+      "DateLastModified" : "\/\/Date:1372128898.032827",
+      "name" : "Blackbery Extract"
+    },
+    {
+      "description" : "",
+      "UUID" : "FE2B9186-860B-4C06-A6B0-8C209463F415",
+      "DateLastModified" : "\/\/Date:1372128898.036854",
+      "name" : "Cherry Concentrate"
+    },
+    {
+      "description" : "",
+      "UUID" : "241C8472-2301-11DA-9C39-001124CAE2A6",
+      "DateLastModified" : "\/\/Date:1372128898.029880",
+      "name" : "Cherry Extract"
+    },
+    {
+      "description" : "",
+      "UUID" : "2BC79C4A-2301-11DA-9C39-001124CAE2A6",
+      "DateLastModified" : "\/\/Date:1372128898.033815",
+      "name" : "Cinnamon Stick"
+    },
+    {
+      "description" : "",
+      "UUID" : "3346B4D6-2301-11DA-9C39-001124CAE2A6",
+      "DateLastModified" : "\/\/Date:1372128898.019550",
+      "name" : "Clearfine"
+    },
+    {
+      "description" : "",
+      "UUID" : "602E8257-2EE3-4776-8B0A-1B8AF7B4BC73",
+      "DateLastModified" : "\/\/Date:1372128898.024759",
+      "name" : "Coffee, Ground"
+    },
+    {
+      "description" : "",
+      "UUID" : "48A8E436-2301-11DA-9C39-001124CAE2A6",
+      "DateLastModified" : "\/\/Date:1372128898.017082",
+      "name" : "Coriander Seed"
+    },
+    {
+      "description" : "",
+      "UUID" : "4F493C1C-2301-11DA-9C39-001124CAE2A6",
+      "DateLastModified" : "\/\/Date:1372128898.016254",
+      "name" : "Cranberry Extract"
+    },
+    {
+      "description" : "Added to the fermenter to reduce foaming during fermentation. Very handy if you don't have much headspace in your fermenter!",
+      "UUID" : "11423437-C55A-4081-967F-A2D96B531C37",
+      "DateLastModified" : "\/\/Date:1372128898.028884",
+      "name" : "Foam Control (Anti-Foam)"
+    },
+    {
+      "description" : "Used as a fining agent to promote sedimentation of yeast.",
+      "UUID" : "5E4BCA2C-2301-11DA-9C39-001124CAE2A6",
+      "DateLastModified" : "\/\/Date:1372128898.026880",
+      "name" : "Gelatine"
+    },
+    {
+      "description" : "",
+      "UUID" : "652C3E80-2301-11DA-9C39-001124CAE2A6",
+      "DateLastModified" : "\/\/Date:1372128898.034810",
+      "name" : "Ginger Root"
+    },
+    {
+      "description" : "A kettle fining that promotes the coagulation of proteins in the boil.",
+      "UUID" : "6D775BBA-2301-11DA-9C39-001124CAE2A6",
+      "DateLastModified" : "\/\/Date:1372128898.025801",
+      "name" : "Irish Moss"
+    },
+    {
+      "description" : "Used as a fining agent to promote sedimentation of yeast.",
+      "UUID" : "74CD47B2-2301-11DA-9C39-001124CAE2A6",
+      "DateLastModified" : "\/\/Date:1372128898.022302",
+      "name" : "Isinglass"
+    },
+    {
+      "description" : "Sometimes added to adjust mash pH. May also be added to fermented beers to increase 'sourness'.",
+      "UUID" : "7FD6FEE5-2301-11DA-9C39-001124CAE2A6",
+      "DateLastModified" : "\/\/Date:1372128898.042052",
+      "name" : "Lactic Acid"
+    },
+    {
+      "description" : "",
+      "UUID" : "865267BA-2301-11DA-9C39-001124CAE2A6",
+      "DateLastModified" : "\/\/Date:1372128898.018680",
+      "name" : "Malto-Dextrine"
+    },
+    {
+      "description" : "",
+      "UUID" : "8D3B8A2A-2301-11DA-9C39-001124CAE2A6",
+      "DateLastModified" : "\/\/Date:1372128898.027900",
+      "name" : "Orange Peel, Bitter"
+    },
+    {
+      "description" : "",
+      "UUID" : "945C123E-2301-11DA-9C39-001124CAE2A6",
+      "DateLastModified" : "\/\/Date:1372128898.017889",
+      "name" : "Orange Peel, Sweet"
+    },
+    {
+      "description" : "A fining agent that removes haze forming proteins from finished beer.",
+      "UUID" : "9D16E85E-2301-11DA-9C39-001124CAE2A6",
+      "DateLastModified" : "\/\/Date:1372128898.040986",
+      "name" : "Polyclar"
+    },
+    {
+      "description" : "A kettle fining that promotes the coagulation of proteins in the boil.",
+      "UUID" : "40130D54-2301-11DA-9C39-001124CAE2A6",
+      "DateLastModified" : "\/\/Date:1372128898.021325",
+      "name" : "Protafloc"
+    },
+    {
+      "description" : "",
+      "UUID" : "085DC41E-5DFB-11DA-92C9-001124CAE2A6",
+      "DateLastModified" : "\/\/Date:1372128898.039949",
+      "name" : "Raisins"
+    },
+    {
+      "description" : "",
+      "UUID" : "A53DB406-2301-11DA-9C39-001124CAE2A6",
+      "DateLastModified" : "\/\/Date:1372128898.023111",
+      "name" : "Raspberry Extract"
+    },
+    {
+      "description" : "",
+      "UUID" : "AC3384C8-2301-11DA-9C39-001124CAE2A6",
+      "DateLastModified" : "\/\/Date:1372128898.037872",
+      "name" : "Sassafras"
+    },
+    {
+      "description" : "",
+      "UUID" : "B348C51F-2301-11DA-9C39-001124CAE2A6",
+      "DateLastModified" : "\/\/Date:1372128898.030855",
+      "name" : "Seeds of Paradise"
+    },
+    {
+      "description" : "",
+      "UUID" : "06BC1F48-2301-11DA-9C39-001124CAE2A6",
+      "DateLastModified" : "\/\/Date:1372128898.020485",
+      "name" : "Star Anise"
+    },
+    {
+      "description" : "",
+      "UUID" : "564EC2FC-2301-11DA-9C39-001124CAE2A6",
+      "DateLastModified" : "\/\/Date:1372128898.035827",
+      "name" : "Sweet Gale"
+    },
+    {
+      "description" : "",
+      "UUID" : "2DC801D7-87D9-45F2-892B-1CE09679F519",
+      "DateLastModified" : "\/\/Date:1372128898.023923",
+      "name" : "Vanilla Beans"
+    },
+    {
+      "description" : "A kettle fining that promotes the coagulation of proteins in the boil.",
+      "UUID" : "BBE9652B-2301-11DA-9C39-001124CAE2A6",
+      "DateLastModified" : "\/\/Date:1372128898.038890",
+      "name" : "Whirlfloc Tablet"
+    },
+    {
+      "description" : "Promotes healthy yeast and strong fermentation by increasing free amino nitrogen and other essential nutrients in the wort.",
+      "UUID" : "C3174634-2301-11DA-9C39-001124CAE2A6",
+      "DateLastModified" : "\/\/Date:1372128898.031842",
+      "name" : "Yeast Nutrient"
+    }
+  ]
+}

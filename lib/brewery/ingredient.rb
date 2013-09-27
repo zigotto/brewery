@@ -35,5 +35,9 @@ module Brewery
     class Yeasts
       include InstanceMethods
     end
+
+    class Other
+      include InstanceMethods
+    end
   end
 end
