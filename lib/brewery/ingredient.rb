@@ -13,8 +13,18 @@ module Brewery
         @collection.each {|element| yield(Hashie::Mash.new(element)) }
       end
 
-      def find_by(name: nil)
-        self.find_all {|v| v.name =~ /#{name}/i}
+      def method_missing(method, *args)
+        if method.to_s =~ /^find_by_(.*)$/
+          attr = $1.to_sym
+          find_all {|i| i.send(attr) =~ /#{args.first}/i}
+        else
+          super
+        end
+      end
+
+      def respond_to?(method, include_private = false)
+        return true if method.to_s =~ /^find_by_(.*)$/
+        super
       end
 
       private

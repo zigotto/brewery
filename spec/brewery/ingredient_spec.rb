@@ -17,9 +17,9 @@ describe Brewery::Ingredient do
     end
 
     context "search" do
-      let(:search) { fermentables.find_by(name: 'pale') }
-
-      it { expect(search.count).to eql(8) }
+      %w(description color moisture extract name).each do |attr|
+        it { expect(fermentables).to respond_to("find_by_#{attr}".to_sym) }
+      end
     end
   end
 
@@ -37,9 +37,9 @@ describe Brewery::Ingredient do
     end
 
     context "search" do
-      let(:search) { hops.find_by(name: 'mag') }
-
-      it { expect(search.count).to eql(2) }
+      %w(description alpha name).each do |attr|
+        it { expect(hops).to respond_to("find_by_#{attr}".to_sym) }
+      end
     end
   end
 
@@ -59,9 +59,9 @@ describe Brewery::Ingredient do
     end
 
     context "search" do
-      let(:search) { yeasts.find_by(name: '05') }
-
-      it { expect(search.count).to eql(7) }
+      %w(description yeast_type beer_type attenuation name).each do |attr|
+        it { expect(yeasts).to respond_to("find_by_#{attr}".to_sym) }
+      end
     end
   end
 
@@ -78,9 +78,9 @@ describe Brewery::Ingredient do
     end
 
     context "search" do
-      let(:search) { other.find_by(name: 'gelatine') }
-
-      it { expect(search.count).to eql(1) }
+      %w(name description).each do |attr|
+        it { expect(other).to respond_to("find_by_#{attr}".to_sym) }
+      end
     end
   end
 end
