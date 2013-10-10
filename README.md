@@ -2,6 +2,12 @@
 
 For now, some formulas and tools for Homebrewing.
 
+[![Build Status](https://travis-ci.org/zigotto/brewery.png?branch=master)](https://travis-ci.org/zigotto/brewery)
+
+[![Dependency Status](https://gemnasium.com/zigotto/brewery.png)](https://gemnasium.com/zigotto/brewery)
+
+[![Code Climate](https://codeclimate.com/github/zigotto/brewery.png)](https://codeclimate.com/github/zigotto/brewery)
+
 ## Installation
 
 Add this line to your application's Gemfile:
