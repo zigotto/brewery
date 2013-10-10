@@ -134,6 +134,17 @@ yeasts.find_by_beer_type('Ale')
 yeasts.find_by_beer_attenuation('75.0')
 ```
 
+#### Other Ingredients
+
+```ruby
+other = Brewery.ingredients :other
+other.count
+# => 30
+
+other.find_by_name('Isinglass')
+other.find_by_description('forming proteins')
+```
+
 ## Contributing
 
 1. Fork it
